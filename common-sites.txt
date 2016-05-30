@@ -379,6 +379,7 @@
     http://jewishmusic.fm/
 
 %% עיריות
+
     ירושלים
     http://www.jerusalem.muni.il/
 
@@ -410,7 +411,7 @@
     ועד הרבנים
     https://www.vaadharabanim.co.il/
 
-% מכירות
+%% מכירות
 
     משנת יוסף
     http://mishnatyosef.org/
