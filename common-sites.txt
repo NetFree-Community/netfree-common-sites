@@ -43,20 +43,20 @@
 %% תחבורה
 
     מודיעין ארצי
-    http://www.bus.co.il/otobusim/Front2007/homepage.asp?domain=bus.co.il&UserAgent=Mozilla%2F5%2E0+%28Windows+NT+6%2E1%29+AppleWebKit%2F537%2E36+%28KHTML%2C+like+Gecko%29+Chrome%2F28%2E0%2E1500%2E95+Safari%2F537%2E36&Design=2007
-    http://www.bus.co.il/otobusimmvc/Content/Design/logo_he.gif
+    http://www.bus.co.il
+    http://www.bus.co.il/otobusimmvc/Content/Design/FavIcon.ico
     
     אגד
     http://www.egged.co.il/
-    http://www.egged.co.il/App_Themes/egged_he-IL/m/header-logo.jpg
+    http://www.egged.co.il/favicon.ico
 
     דן
     http://www.dan.co.il/
-    http://www.dan.co.il/images/logo_dan_top.png
+    http://www.dan.co.il/images/favicon.png
     
     רכבת ישראל
-    http://www.rail.co.il/he/Pages/homepage.aspx
-    http://www.rail.co.il//Logo/logo.png
+    http://www.rail.co.il/
+    http://www.rail.co.il/_layouts/ResourcesTrain2010/shared/Images/favicon.ico
     
     קווים עילית
     http://www.illit-t.co.il/home/
@@ -68,10 +68,83 @@
     
     מטרופולין
     http://www.metropoline.com/
-    http://www.metropoline.com/images/metropoline_logo.jpg
+    http://www.metropoline.com/favicon.ico
     
     נתיב אקספרס
     http://www.nateevexpress.com/
     http://www.nateevexpress.com/images/NateevLogo.png
     
     
+%% אתרים ממשלה
+
+    משרד האוצר
+    http://www.mof.gov.il/
+    /Style%20Library/Mof/he-IL/Images/logoMOF.jpg
+    
+    דואר ישראל
+    http://www.israelpost.co.il/
+    http://www.israelpost.co.il/scripts.nsf/images/logo170/$file/logo170.png
+    
+    משרד המשפטים
+    http://index.justice.gov.il/
+    http://index.justice.gov.il/SiteCollectionImages/Units_Logos/mobile/MOJHeb.png
+    
+    משרד התחבורה
+    http://he.mot.gov.il/
+    http://he.mot.gov.il/templates/jsn_epic_dev/images/logo.png
+    
+    משרד החינוך
+    http://cms.education.gov.il/
+    http://edu.gov.il/PublishingImages/EduImages/LogoImages/header-logo-md.png
+    
+    פיקוד העורף
+    http://www.oref.org.il/
+    http://www.oref.org.il/Sip_Storage/FILES/5/2955.png
+    
+    ביטוח לאומי
+    https://www.btl.gov.il/
+    https://www.btl.gov.il/_layouts/15/images/btl.website/new/sprite/logo.png
+    
+    משרד הרווחה
+    http://www.molsa.gov.il/
+    http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/LogoMisrad.jpg
+    
+    המשרד להגנת הסביבה
+    http://www.sviva.gov.il/
+    http://www.sviva.gov.il/Style%20Library/Images/env/Header/logo.png
+    
+    משרד הפנים
+    http://www.moin.gov.il/
+    http://www.moin.gov.il/_layouts/images/MoinGxms/Interior.jpg
+    
+    משרד הבינוי והשיכון
+    http://www.moch.gov.il/
+    http://www.moch.gov.il/Style%20Library/Images/Moch/Header/header_logo_trn.png
+    
+    משרד הבטחון
+    http://www.mod.gov.il/
+    http://www.mod.gov.il/_layouts/15/images/Sites/PortalModGovIl/Header/logo.png
+    
+    המשרד החוץ
+    http://mfa.gov.il/
+    http://mfa.gov.il/MFA_Graphics/MasterPage/israel-logo.png
+    
+    המשרד לקליטת העליה
+    http://www.moia.gov.il/
+    
+    
+    משרד העליה והקליטה
+    http://www.moia.gov.il/
+    
+    
+    משרד הכלכלה והתעשיה
+    http://www.economy.gov.il/
+    
+    
+    חברת החשמל לישראל
+    http://www.iec.co.il/
+    https://www.iec.co.il/Style%20Library/Iec/Images/favicon.ico
+    
+    משרד הבריאות
+    http://www.health.gov.il/
+    http://www.health.gov.il/Style%20Library/Images/Health/MasterPage/Txt.jpg
