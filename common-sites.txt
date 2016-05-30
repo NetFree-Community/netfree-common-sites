@@ -1,4 +1,4 @@
-%% מנועי חיפוש
+﻿%% מנועי חיפוש
 
     גוגל
     https://www.google.com/
@@ -94,9 +94,6 @@
     משרד האוצר
     http://www.mof.gov.il/
     
-    דואר ישראל
-    http://www.israelpost.co.il/
-    
     משרד המשפטים
     http://index.justice.gov.il/
     
@@ -127,7 +124,7 @@
     משרד הבטחון
     http://www.mod.gov.il/
     
-    המשרד החוץ
+    משרד החוץ
     http://mfa.gov.il/
     
     משרד העליה והקליטה
@@ -166,12 +163,21 @@
 
     קול הלשון
     http://www.kolhalashon.com/
+	
+    קול השיעורים
+    http://www.kolhashiurim.com/
 
     תורת אמת
     http://www.toratemetfreeware.com/
 
-   אוצר החכמה
-   http://www.otzar.org/
+    אוצר החכמה
+    http://www.otzar.org/
+
+    תהילים
+    http://www.tehilim.org.il/
+	
+    תפילות
+    http://www.tfilot.co.il/
 
 %% מפות וניווט
 
@@ -194,3 +200,123 @@
 
     תרגום בינג
     https://www.bing.com/translator/    
+	
+%% תחזית מזג אויר
+
+    השרות המטרולוגי
+    http://www.ims.gov.il/ims/all_tahazit/
+	
+    חזי דיין    
+    http://israelweather.co.il/forecast/index.html
+	    
+    ירושמיים
+    http://www.02ws.co.il/
+	
+%% כלכלה
+
+    בורסת ישראל
+    http://www.tase.co.il/Heb/Pages/Homepage.aspx
+    
+    שערי מט"ח
+    http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
+    
+    חדשות כלכלה
+    http://www.sponser.co.il/
+	
+%% דואר ושליחויות
+	
+    דואר ישראל
+    http://www.israelpost.co.il/
+    
+    UPS
+    https://www.ups.com/
+	
+    DHL
+    http://www.dhl.com/
+	    
+    צ'יטה
+    http://www.chitadelivery.co.il/
+	
+    EMS
+    http://www.ems.post/
+	
+%% תקשורת
+
+    השוואת חברות הסינון
+    http://atchalta.org/he/compare-internet-providers/
+	
+    בזק
+    http://www.bezeq.co.il/
+	
+    הוט
+    http://www.hot.net.il//heb/internetandtelephone/
+    
+    פרטנר
+    https://www.partner.co.il/
+    
+    פלאפון
+    http://www.pelephone.co.il/
+
+    סלקום
+    http://www.cellcom.co.il
+
+    הוט מובייל
+    https://www.hotmobile.co.il
+	
+    רמי לוי תקשורת
+    https://mobile.rami-levy.co.il/
+
+    בדיקת מהירות גלישה
+    http://www.bezeq.co.il/internetandphone/internet/speedtest/
+    
+    פרי פקס
+    http://www.freefax.co.il/
+
+%% מודיעין
+
+    חיפוש 144
+    http://www.b144.co.il/Default.aspx
+    
+    חיפוש הפוך
+    http://441il.com/
+    
+    המדריך החרדי
+    http://www.m-hakehilot.co.il/
+    
+    דפי זהב
+    http://www.d.co.il/
+    
+%% שיתוף קבצים
+
+    ג'מבו מייל
+    http://www.jumbomail.co.il/
+    
+    העברת קבצים גדולים
+    http://magicode.613m.org/send-file/upload/#
+    
+%% קופות חולים
+    
+    מכבי
+    http://www.maccabi4u.co.il
+    
+    כללית
+    http://www.clalit.co.il/
+    
+    מאוחדת
+    https://www.meuhedet.co.il
+    
+    לאומית
+    http://www.leumit.co.il/
+
+%% פורומים חרדיים
+    
+    פרוג
+    http://www.prog.co.il/
+	
+    נתיב
+    http://forum.enativ.com/
+    
+%% יהדות
+    
+    מצלמות הכותל
+    http://www.thekotel.org/kotel/kotel_cameras/
