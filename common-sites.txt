@@ -44,6 +44,6 @@
 
     זאפ – השוואת מחירים
     http://www.zap.co.il/
-    http://img.zap.co.il/imgs/newui/zap-logo.PNG
+    http://www.zap.co.il/favicon.ico
  
     
