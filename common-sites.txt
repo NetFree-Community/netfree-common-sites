@@ -170,6 +170,9 @@
     תורת אמת
     http://www.toratemetfreeware.com/
 
+    פורום לתורה
+    http://www.tora-forum.co.il/
+
     אוצר החכמה
     http://www.otzar.org/
 
@@ -182,7 +185,7 @@
 %% מפות וניווט
 
     ווייז
-    https://www.waze.com/
+    https://www.waze.com/he/
 
     מפות גוגל
     https://maps.google.com/
@@ -308,8 +311,36 @@
     לאומית
     http://www.leumit.co.il/
 
-%% פורומים חרדיים
+%% בתי חולים
+
+    בית חולים תל השומר
+    http://www.sheba.co.il/
+
+    בית חולים איכילוב
+    http://www.tasmc.org.il/
+
+    בית חולים מעיני הישועה
+    http://www.mymc.co.il/
+
+    בית חולים אסף הרופא
+    http://www.assafh.org/
+
+    בית חולים רמב"ם
+    http://www.rambam.org.il/
+
+    בית חולים וולפסון
+    http://www.wolfson.org.il/
     
+%% עמותות
+
+    עזר מציון
+    http://www.ami.org.il/
+
+    יד שרה
+    http://www.yadsarah.org.il/
+
+%% פורומים חרדיים
+
     פרוג
     http://www.prog.co.il/
 	
@@ -320,3 +351,21 @@
     
     מצלמות הכותל
     http://www.thekotel.org/kotel/kotel_cameras/
+
+%% מוסיקה
+
+    ג'ואיש מיוזיק FM
+    http://jewishmusic.fm/
+
+%% עיריות
+    ירושלים
+    http://www.jerusalem.muni.il/
+
+    בני ברק
+    http://www.bnei-brak.muni.il/
+
+    בית שמש
+    http://betshemesh.muni.il/
+
+    תל אביב
+    http://www.tel-aviv.gov.il
