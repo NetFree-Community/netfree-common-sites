@@ -1,4 +1,4 @@
-%% מנועי חיפוש
+﻿%% מנועי חיפוש
 
     גוגל
     https://www.google.com/
@@ -164,19 +164,19 @@
     קול הלשון
     http://www.kolhalashon.com/
 	
-	קול השיעורים
+    קול השיעורים
     http://www.kolhashiurim.com/
 
     תורת אמת
     http://www.toratemetfreeware.com/
 
-	אוצר החכמה
-	http://www.otzar.org/
+    אוצר החכמה
+    http://www.otzar.org/
 
-	תהילים
+    תהילים
     http://www.tehilim.org.il/
 	
-	תפילות
+    תפילות
     http://www.tfilot.co.il/
 
 %% מפות וניווט
@@ -203,14 +203,14 @@
 	
 %% תחזית מזג אויר
 
-	השרות המטרולוגי
+    השרות המטרולוגי
     http://www.ims.gov.il/ims/all_tahazit/
 	
-	חזי דיין
-	http://israelweather.co.il/forecast/index.html
-	
-	ירושמיים
-	http://www.02ws.co.il/
+    חזי דיין    
+    http://israelweather.co.il/forecast/index.html
+	    
+    ירושמיים
+    http://www.02ws.co.il/
 	
 %% כלכלה
 
@@ -223,24 +223,22 @@
     חדשות כלכלה
     http://www.sponser.co.il/
 	
-	
-	
 %% דואר ושליחויות
 	
-	דואר ישראל
+    דואר ישראל
     http://www.israelpost.co.il/
     
-	UPS
-	https://www.ups.com/
+    UPS
+    https://www.ups.com/
 	
-	DHL
-	http://www.dhl.com/
+    DHL
+    http://www.dhl.com/
+	    
+    צ'יטה
+    http://www.chitadelivery.co.il/
 	
-	צ'יטה
-	http://www.chitadelivery.co.il/
-	
-	EMS
-	http://www.ems.post/
+    EMS
+    http://www.ems.post/
 	
 %% תקשורת
 
@@ -250,8 +248,8 @@
     בזק
     http://www.bezeq.co.il/
 	
-	הוט
-	http://www.hot.net.il//heb/internetandtelephone/
+    הוט
+    http://www.hot.net.il//heb/internetandtelephone/
     
     פרטנר
     https://www.partner.co.il/
@@ -265,8 +263,8 @@
     הוט מובייל
     https://www.hotmobile.co.il
 	
-	רמי לוי תקשורת
-	https://mobile.rami-levy.co.il/
+    רמי לוי תקשורת
+    https://mobile.rami-levy.co.il/
 
     בדיקת מהירות גלישה
     http://www.bezeq.co.il/internetandphone/internet/speedtest/
@@ -290,7 +288,7 @@
     
 %% שיתוף קבצים
 
-	ג'מבו מייל
+    ג'מבו מייל
     http://www.jumbomail.co.il/
     
     העברת קבצים גדולים
@@ -315,8 +313,8 @@
     פרוג
     http://www.prog.co.il/
 	
-	נתיב
-	http://forum.enativ.com/
+    נתיב
+    http://forum.enativ.com/
     
 %% יהדות
     
