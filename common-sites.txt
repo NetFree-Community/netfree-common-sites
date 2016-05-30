@@ -40,4 +40,38 @@
     http://www.93fm.co.il/
     http://www.93fm.co.il/favicon.ico
     
+%% תחבורה
+
+    מודיעין ארצי
+    http://www.bus.co.il/otobusim/Front2007/homepage.asp?domain=bus.co.il&UserAgent=Mozilla%2F5%2E0+%28Windows+NT+6%2E1%29+AppleWebKit%2F537%2E36+%28KHTML%2C+like+Gecko%29+Chrome%2F28%2E0%2E1500%2E95+Safari%2F537%2E36&Design=2007
+    http://www.bus.co.il/otobusimmvc/Content/Design/logo_he.gif
+    
+    אגד
+    http://www.egged.co.il/
+    http://www.egged.co.il/App_Themes/egged_he-IL/m/header-logo.jpg
+
+    דן
+    http://www.dan.co.il/
+    http://www.dan.co.il/images/logo_dan_top.png
+    
+    רכבת ישראל
+    http://www.rail.co.il/he/Pages/homepage.aspx
+    http://www.rail.co.il//Logo/logo.png
+    
+    קווים עילית
+    http://www.illit-t.co.il/home/
+    http://www.kavim-t.co.il/images/top_logo_new.gif
+    
+    סופרבוס
+    http://www.superbus.co.il/
+    http://www.superbus.co.il/cut/logo.png
+    
+    מטרופולין
+    http://www.metropoline.com/
+    http://www.metropoline.com/images/metropoline_logo.jpg
+    
+    נתיב אקספרס
+    http://www.nateevexpress.com/
+    http://www.nateevexpress.com/images/NateevLogo.png
+    
     
