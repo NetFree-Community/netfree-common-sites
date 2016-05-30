@@ -10,18 +10,22 @@
 
 %% בנקים
 
+    בנק דיסקונט
+    https://www.discountbank.co.il/
+    https://www.discountbank.co.il/DB/sites/marketing.discountbank.co.il/files/favicon_0.ico
+
     בנק הפועלים
     https://www.bankhapoalim.co.il/
     https://www.bankhapoalim.co.il/favicon.ico
     
+    בנק לאומי
+    https://www.leumi.co.il/
+    https://www.leumi.co.il/favicon.ico
+
     בנק מזרחי טפחות
     https://www.mizrahi-tefahot.co.il/
     https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
-    
-    בנק דיסקונט
-    https://www.discountbank.co.il/
-    https://www.discountbank.co.il/DB/sites/marketing.discountbank.co.il/files/favicon_0.ico
-    
+      
     בנק פאגי
     https://online.pagi.co.il/
     https://online.pagi.co.il/PagiTheme/themes/html/PagiTheme/images/header/fibi.ico
@@ -45,8 +49,27 @@
     זאפ – השוואת מחירים
     http://www.zap.co.il/
     http://www.zap.co.il/favicon.ico
- 
-    
+     
+    איביי
+    https://www.ebay.com/
+    https://www.ebay.com/favicon.ico
+
+    אמזון
+    http://www.amazon.com/
+    http://www.amazon.com/favicon.ico
+
+    נקסט
+    http://www.next.co.uk/
+    http://www.next.co.uk/favicon.ico
+
+    עלי אקספרס - אנגלית
+    http://www.aliexpress.com/
+    http://ae01.alicdn.com/images/eng/wholesale/icon/aliexpress.ico
+
+    עלי אקספרס - עברית
+    http://he.aliexpress.com/
+    http://ae01.alicdn.com/images/eng/wholesale/icon/aliexpress.ico
+
 %% תחבורה
 
     מודיעין ארצי
@@ -80,7 +103,6 @@
     נתיב אקספרס
     http://www.nateevexpress.com/
     http://www.nateevexpress.com/images/NateevLogo.png
-    
     
 %% אתרי ממשלה
 
