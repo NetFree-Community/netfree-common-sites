@@ -1,112 +1,20 @@
-﻿%% מנועי חיפוש
+﻿%% אשראי
 
-    גוגל
-    https://www.google.com/
-    
-%% דואר אלקטרוני
+    לאומי כארד
+    https://www.leumi-card.co.il/
 
-    ג'ימייל
-    https://mail.google.com/
-    https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+    ויזה כאל
+    https://www.cal-online.co.il/
 
-    אוטלוק - הוטמייל
-    https://www.outlook.com/
+    ישראכרט
+    https://digital.isracard.co.il/
 
-    יאהו
-    https://mail.yahoo.com/
+    אמריקן אקספרס - ישראל
+    https://he.americanexpress.co.il/
 
-%% בנקים
-
-    בנק אגוד
-    http://www.unionbank.co.il
-
-    בנק דיסקונט
-    https://www.discountbank.co.il/
-
-    בנק הפועלים
-    https://www.bankhapoalim.co.il/
-    
-    בנק יהב
-    https://www.yahav.co.il/
-
-    בנק ירושלים
-    https://www.bankjerusalem.co.il/
-
-    בנק לאומי
-    https://www.leumi.co.il/
-
-    בנק מזרחי טפחות
-    https://www.mizrahi-tefahot.co.il/
-      
-    בנק מסד
-    https://online.bankmassad.co.il
-
-    בנק מרכנתיל
-    https://www.mercantile.co.il/
-
-    בנק פאגי
-    https://online.pagi.co.il/
-
-%% חדשות
-
-    JDN
-    http://www.jdn.co.il/
-    
-    לדעת
-    http://ladaat.info/
-    
-    רדיו קול חי
-    http://www.93fm.co.il/
+    אמריקן אקספרס
+    https://www.americanexpress.com/
    
-%% קניות ומכירות 
-
-    זאפ – השוואת מחירים
-    http://www.zap.co.il/
-     
-    איביי
-    https://www.ebay.com/
-
-    אמזון
-    http://www.amazon.com/
-
-    נקסט
-    http://il.nextdirect.com
-
-    עלי אקספרס - אנגלית
-    http://www.aliexpress.com/
-
-    עלי אקספרס - עברית
-    http://he.aliexpress.com/
-
-%% תחבורה
-
-    מודיעין ארצי
-    http://www.bus.co.il
-    
-    אגד
-    http://www.egged.co.il/
-
-    דן
-    http://www.dan.co.il/
-    
-    רכבת ישראל
-    http://www.rail.co.il/
-    
-    קווים עילית
-    http://www.illit-t.co.il/
-    
-    סופרבוס
-    http://www.superbus.co.il/
-    
-    מטרופולין
-    http://www.metropoline.com/
-    
-    נתיב אקספרס
-    http://www.nateevexpress.com/
-    
-    רב קו אונליין
-    https://ravkavonline.co.il/he/
-
 %% אתרי ממשלה
 
     משרד האוצר
@@ -157,24 +65,263 @@
     משרד הבריאות
     http://www.health.gov.il/
 
-%% אשראי
+%% בנקים
 
-    לאומי כארד
-    https://www.leumi-card.co.il/
+    בנק אגוד
+    http://www.unionbank.co.il
 
-    ויזה כאל
-    https://www.cal-online.co.il/
+    בנק דיסקונט
+    https://www.discountbank.co.il/
 
-    ישראכרט
-    https://digital.isracard.co.il/
+    בנק הפועלים
+    https://www.bankhapoalim.co.il/
+    
+    בנק יהב
+    https://www.yahav.co.il/
 
-    אמריקן אקספרס - ישראל
-    https://he.americanexpress.co.il/
+    בנק ירושלים
+    https://www.bankjerusalem.co.il/
 
-    אמריקן אקספרס
-    https://www.americanexpress.com/
+    בנק לאומי
+    https://www.leumi.co.il/
 
-%%תורני
+    בנק מזרחי טפחות
+    https://www.mizrahi-tefahot.co.il/
+      
+    בנק מסד
+    https://online.bankmassad.co.il
+
+    בנק מרכנתיל
+    https://www.mercantile.co.il/
+
+    בנק פאגי
+    https://online.pagi.co.il/
+
+%% בתי חולים
+
+    בית חולים תל השומר
+    http://www.sheba.co.il/
+
+    בית חולים איכילוב
+    http://www.tasmc.org.il/
+
+    בית חולים מעיני הישועה
+    http://www.mymc.co.il/
+
+    בית חולים אסף הרופא
+    http://www.assafh.org/
+
+    בית חולים רמב"ם
+    http://www.rambam.org.il/
+
+    בית חולים וולפסון
+    http://www.wolfson.org.il/
+    
+%% דואר אלקטרוני
+
+    ג'ימייל
+    https://mail.google.com/
+    https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+
+    אוטלוק - הוטמייל
+    https://www.outlook.com/
+
+    יאהו
+    https://mail.yahoo.com/
+
+%% דואר ושליחויות
+	
+    דואר ישראל
+    http://www.israelpost.co.il/
+    
+    UPS
+    https://www.ups.com/
+	
+    DHL
+    http://www.dhl.com/
+	    
+    צ'יטה
+    http://www.chitadelivery.co.il/
+	
+    EMS
+    http://www.ems.post/
+
+%% חדשות
+
+    JDN
+    http://www.jdn.co.il/
+    
+    לדעת
+    http://ladaat.info/
+    
+    רדיו קול חי
+    http://www.93fm.co.il/
+
+%% יהדות
+    
+    מצלמות הכותל
+    http://www.thekotel.org/kotel/kotel_cameras/
+
+%% כלכלה
+
+    בורסת ישראל
+    http://www.tase.co.il/Heb/Pages/Homepage.aspx
+    
+    שערי מט"ח
+    http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
+    
+    חדשות כלכלה
+    http://www.sponser.co.il/
+
+%% לוחות
+
+    יד 2
+    http://www.yad2.co.il/
+
+    אגורה
+    http://www.agora.co.il/
+
+    הומלס
+    http://www.homeless.co.il/
+
+%% מוסיקה
+
+    ג'ואיש מיוזיק FM
+    http://jewishmusic.fm/
+
+%% מודיעין
+
+    חיפוש 144
+    http://www.b144.co.il/Default.aspx
+    
+    חיפוש הפוך
+    http://441il.com/
+    
+    המדריך החרדי
+    http://www.m-hakehilot.co.il/
+    
+    דפי זהב
+    http://www.d.co.il/
+    
+    קשר כשר
+    http://kkasher.co.il/
+
+%% מנועי חיפוש
+
+    גוגל
+    https://www.google.com/
+ 
+%% מכירות
+
+    משנת יוסף
+    http://mishnatyosef.org/
+
+    המכירה השכונתית
+    www.sales.org.il/
+
+%% מפות וניווט
+
+    ווייז
+    https://www.waze.com/he/
+
+    מפות גוגל
+    https://maps.google.com/
+
+    מפות Ynet
+    http://ymap.ynet.co.il/
+
+    מפות בינג
+    http://www.bing.com/maps/
+   
+%% עיריות
+
+    ירושלים
+    http://www.jerusalem.muni.il/
+
+    בני ברק
+    http://www.bnei-brak.muni.il/
+
+    בית שמש
+    http://betshemesh.muni.il/
+
+    תל אביב
+    http://www.tel-aviv.gov.il
+
+%% עמותות
+
+    עזר מציון
+    http://www.ami.org.il/
+
+    יד שרה
+    http://www.yadsarah.org.il/
+
+%% פורומים חרדיים
+
+    פרוג
+    http://www.prog.co.il/
+	
+    נתיב
+    http://forum.enativ.com/
+    
+%% קופות חולים
+    
+    מכבי
+    http://www.maccabi4u.co.il
+    
+    כללית
+    http://www.clalit.co.il/
+    
+    מאוחדת
+    https://www.meuhedet.co.il
+    
+    לאומית
+    http://www.leumit.co.il/
+
+%% קופות צדקה
+
+    קופת העיר
+    http://www.kupat.org.il/
+
+    ועד הרבנים
+    https://www.vaadharabanim.co.il/
+
+%% קניות ומכירות 
+
+    זאפ – השוואת מחירים
+    http://www.zap.co.il/
+     
+    איביי
+    https://www.ebay.com/
+
+    אמזון
+    http://www.amazon.com/
+
+    נקסט
+    http://il.nextdirect.com
+
+    עלי אקספרס - אנגלית
+    http://www.aliexpress.com/
+
+    עלי אקספרס - עברית
+    http://he.aliexpress.com/
+
+%% שיתוף קבצים
+
+    ג'מבו מייל
+    http://www.jumbomail.co.il/
+    
+    העברת קבצים גדולים
+    http://magicode.me/send-file/upload/#
+    
+%% שפות ותרגומים
+
+    תרגום גוגל
+    https://translate.google.com/
+
+    תרגום בינג
+    https://www.bing.com/translator/    
+	
+%% תורני
 
     היברו בוקס
     http://www.hebrewbooks.org/
@@ -197,28 +344,35 @@
     תפילות
     http://www.tfilot.co.il/
 
-%% מפות וניווט
+%% תחבורה
 
-    ווייז
-    https://www.waze.com/he/
+    מודיעין ארצי
+    http://www.bus.co.il
+    
+    אגד
+    http://www.egged.co.il/
 
-    מפות גוגל
-    https://maps.google.com/
+    דן
+    http://www.dan.co.il/
+    
+    רכבת ישראל
+    http://www.rail.co.il/
+    
+    קווים עילית
+    http://www.illit-t.co.il/
+    
+    סופרבוס
+    http://www.superbus.co.il/
+    
+    מטרופולין
+    http://www.metropoline.com/
+    
+    נתיב אקספרס
+    http://www.nateevexpress.com/
+    
+    רב קו אונליין
+    https://ravkavonline.co.il/he/
 
-    מפות Ynet
-    http://ymap.ynet.co.il/
-
-    מפות בינג
-    http://www.bing.com/maps/
-
-%% שפות ותרגומים
-
-    תרגום גוגל
-    https://translate.google.com/
-
-    תרגום בינג
-    https://www.bing.com/translator/    
-	
 %% תחזית מזג אויר
 
     השרות המטרולוגי
@@ -229,34 +383,6 @@
 	    
     ירושמיים
     http://www.02ws.co.il/
-	
-%% כלכלה
-
-    בורסת ישראל
-    http://www.tase.co.il/Heb/Pages/Homepage.aspx
-    
-    שערי מט"ח
-    http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
-    
-    חדשות כלכלה
-    http://www.sponser.co.il/
-
-%% דואר ושליחויות
-	
-    דואר ישראל
-    http://www.israelpost.co.il/
-    
-    UPS
-    https://www.ups.com/
-	
-    DHL
-    http://www.dhl.com/
-	    
-    צ'יטה
-    http://www.chitadelivery.co.il/
-	
-    EMS
-    http://www.ems.post/
 	
 %% תקשורת
 
@@ -292,129 +418,3 @@
     
     פרי פקס
     http://www.freefax.co.il/
-
-%% מודיעין
-
-    חיפוש 144
-    http://www.b144.co.il/Default.aspx
-    
-    חיפוש הפוך
-    http://441il.com/
-    
-    המדריך החרדי
-    http://www.m-hakehilot.co.il/
-    
-    דפי זהב
-    http://www.d.co.il/
-    
-    קשר כשר
-    http://kkasher.co.il/
-
-%% שיתוף קבצים
-
-    ג'מבו מייל
-    http://www.jumbomail.co.il/
-    
-    העברת קבצים גדולים
-    http://magicode.me/send-file/upload/#
-    
-%% קופות חולים
-    
-    מכבי
-    http://www.maccabi4u.co.il
-    
-    כללית
-    http://www.clalit.co.il/
-    
-    מאוחדת
-    https://www.meuhedet.co.il
-    
-    לאומית
-    http://www.leumit.co.il/
-
-%% בתי חולים
-
-    בית חולים תל השומר
-    http://www.sheba.co.il/
-
-    בית חולים איכילוב
-    http://www.tasmc.org.il/
-
-    בית חולים מעיני הישועה
-    http://www.mymc.co.il/
-
-    בית חולים אסף הרופא
-    http://www.assafh.org/
-
-    בית חולים רמב"ם
-    http://www.rambam.org.il/
-
-    בית חולים וולפסון
-    http://www.wolfson.org.il/
-    
-%% עמותות
-
-    עזר מציון
-    http://www.ami.org.il/
-
-    יד שרה
-    http://www.yadsarah.org.il/
-
-%% פורומים חרדיים
-
-    פרוג
-    http://www.prog.co.il/
-	
-    נתיב
-    http://forum.enativ.com/
-    
-%% יהדות
-    
-    מצלמות הכותל
-    http://www.thekotel.org/kotel/kotel_cameras/
-
-%% מוסיקה
-
-    ג'ואיש מיוזיק FM
-    http://jewishmusic.fm/
-
-%% עיריות
-
-    ירושלים
-    http://www.jerusalem.muni.il/
-
-    בני ברק
-    http://www.bnei-brak.muni.il/
-
-    בית שמש
-    http://betshemesh.muni.il/
-
-    תל אביב
-    http://www.tel-aviv.gov.il
-
-%% לוחות
-
-    יד 2
-    http://www.yad2.co.il/
-
-    אגורה
-    http://www.agora.co.il/
-
-    הומלס
-    http://www.homeless.co.il/
-
-%% קופות צדקה
-
-    קופת העיר
-    http://www.kupat.org.il/
-
-    ועד הרבנים
-    https://www.vaadharabanim.co.il/
-
-%% מכירות
-
-    משנת יוסף
-    http://mishnatyosef.org/
-
-    המכירה השכונתית
-    www.sales.org.il/
