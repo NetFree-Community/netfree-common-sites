@@ -40,8 +40,9 @@
     http://www.93fm.co.il/
     http://www.93fm.co.il/favicon.ico
    
-%%  קניות ומכירות 
-    זאפ –השוואת מחירים
+%% קניות ומכירות 
+
+    זאפ – השוואת מחירים
     http://www.zap.co.il/
     http://img.zap.co.il/imgs/newui/zap-logo.PNG
  
