@@ -17,18 +17,33 @@
 
 %% בנקים
 
+    בנק אגוד
+    http://www.unionbank.co.il
+
     בנק דיסקונט
     https://www.discountbank.co.il/
 
     בנק הפועלים
     https://www.bankhapoalim.co.il/
     
+    בנק יהב
+    https://www.yahav.co.il/
+
+    בנק ירושלים
+    https://www.bankjerusalem.co.il/
+
     בנק לאומי
     https://www.leumi.co.il/
 
     בנק מזרחי טפחות
     https://www.mizrahi-tefahot.co.il/
       
+    בנק מסד
+    https://online.bankmassad.co.il
+
+    בנק מרכנתיל
+    https://www.mercantile.co.il/
+
     בנק פאגי
     https://online.pagi.co.il/
 
@@ -89,6 +104,9 @@
     נתיב אקספרס
     http://www.nateevexpress.com/
     
+    רב קו אונליין
+    https://ravkavonline.co.il/he/
+
 %% אתרי ממשלה
 
     משרד האוצר
@@ -164,11 +182,11 @@
     קול הלשון
     http://www.kolhalashon.com/
 	
-    קול השיעורים
-    http://www.kolhashiurim.com/
-
-    תורת אמת
+      תורת אמת
     http://www.toratemetfreeware.com/
+
+    פורום לתורה
+    http://www.tora-forum.co.il/
 
     אוצר החכמה
     http://www.otzar.org/
@@ -182,7 +200,7 @@
 %% מפות וניווט
 
     ווייז
-    https://www.waze.com/
+    https://www.waze.com/he/
 
     מפות גוגל
     https://maps.google.com/
@@ -222,7 +240,7 @@
     
     חדשות כלכלה
     http://www.sponser.co.il/
-	
+
 %% דואר ושליחויות
 	
     דואר ישראל
@@ -266,6 +284,9 @@
     רמי לוי תקשורת
     https://mobile.rami-levy.co.il/
 
+    019 
+    https://019mobile.co.il/
+
     בדיקת מהירות גלישה
     http://www.bezeq.co.il/internetandphone/internet/speedtest/
     
@@ -286,6 +307,9 @@
     דפי זהב
     http://www.d.co.il/
     
+    קשר כשר
+    http://kkasher.co.il/
+
 %% שיתוף קבצים
 
     ג'מבו מייל
@@ -308,8 +332,36 @@
     לאומית
     http://www.leumit.co.il/
 
-%% פורומים חרדיים
+%% בתי חולים
+
+    בית חולים תל השומר
+    http://www.sheba.co.il/
+
+    בית חולים איכילוב
+    http://www.tasmc.org.il/
+
+    בית חולים מעיני הישועה
+    http://www.mymc.co.il/
+
+    בית חולים אסף הרופא
+    http://www.assafh.org/
+
+    בית חולים רמב"ם
+    http://www.rambam.org.il/
+
+    בית חולים וולפסון
+    http://www.wolfson.org.il/
     
+%% עמותות
+
+    עזר מציון
+    http://www.ami.org.il/
+
+    יד שרה
+    http://www.yadsarah.org.il/
+
+%% פורומים חרדיים
+
     פרוג
     http://www.prog.co.il/
 	
@@ -320,3 +372,48 @@
     
     מצלמות הכותל
     http://www.thekotel.org/kotel/kotel_cameras/
+
+%% מוסיקה
+
+    ג'ואיש מיוזיק FM
+    http://jewishmusic.fm/
+
+%% עיריות
+    ירושלים
+    http://www.jerusalem.muni.il/
+
+    בני ברק
+    http://www.bnei-brak.muni.il/
+
+    בית שמש
+    http://betshemesh.muni.il/
+
+    תל אביב
+    http://www.tel-aviv.gov.il
+
+%%לוחות
+
+    יד 2
+    http://www.yad2.co.il/
+
+    אגורה
+    http://www.agora.co.il/
+
+    הומלס
+    http://www.homeless.co.il/
+
+%% קופות צדקה
+
+    קופת העיר
+    http://www.kupat.org.il/
+
+    ועד הרבנים
+    https://www.vaadharabanim.co.il/
+
+% מכירות
+
+    משנת יוסף
+    http://mishnatyosef.org/
+
+    המכירה השכונתית
+    www.sales.org.il/
