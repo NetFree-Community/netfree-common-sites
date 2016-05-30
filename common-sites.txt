@@ -1,11 +1,22 @@
-%% כללי
+%% מנועי חיפוש
 
     גוגל
     https://www.google.com/
     
-    דוא"ל ג'ימייל
+%% דואר אלקטרוני
+
+    ג'ימייל
     https://mail.google.com/
     https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+
+    הוטמייל
+    https://hotmail.com/
+
+    יאהו
+    https://mail.yahoo.com/
+
+    מייל ערוץ שבע
+    http://www.inn.co.il/
 
 %% בנקים
 
