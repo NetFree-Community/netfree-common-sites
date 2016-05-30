@@ -82,7 +82,7 @@
     http://www.nateevexpress.com/images/NateevLogo.png
     
     
-%% אתרים ממשלה
+%% אתרי ממשלה
 
     משרד האוצר
     http://www.mof.gov.il/
