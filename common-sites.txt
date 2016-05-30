@@ -392,7 +392,7 @@
     תל אביב
     http://www.tel-aviv.gov.il
 
-%%לוחות
+%% לוחות
 
     יד 2
     http://www.yad2.co.il/
