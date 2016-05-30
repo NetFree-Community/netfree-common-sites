@@ -168,6 +168,17 @@
     
 %% בריאות
     
+    מכבי
+    http://www.maccabi4u.co.il
+    
+    כללית
+    http://www.clalit.co.il/
+    
+    מאוחדת
+    https://www.meuhedet.co.il
+    
+    לאומית
+    http://www.leumit.co.il/
     
 % תקשורת
 
