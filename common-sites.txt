@@ -292,7 +292,7 @@
     http://www.jumbomail.co.il/
     
     העברת קבצים גדולים
-    http://magicode.613m.org/send-file/upload/#
+    http://magicode.me/send-file/upload/#
     
 %% קופות חולים
     
