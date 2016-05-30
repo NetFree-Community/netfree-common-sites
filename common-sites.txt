@@ -1,0 +1,43 @@
+%% כללי
+
+    גוגל
+    https://www.google.com/
+    https://www.google.co.il/images/branding/product/ico/googleg_lodp.ico
+    
+    דוא"ל ג'ימייל
+    https://mail.google.com/
+    https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+
+%% בנקים
+
+    בנק הפועלים
+    https://www.bankhapoalim.co.il/
+    https://www.bankhapoalim.co.il/favicon.ico
+    
+    בנק מזרחי טפחות
+    https://www.mizrahi-tefahot.co.il/
+    https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
+    
+    בנק דיסקונט
+    https://www.discountbank.co.il/
+    https://www.discountbank.co.il/DB/sites/marketing.discountbank.co.il/files/favicon_0.ico
+    
+    בנק פאגי
+    https://online.pagi.co.il/
+    https://online.pagi.co.il/PagiTheme/themes/html/PagiTheme/images/header/fibi.ico
+
+%% חדשות
+
+    JDN
+    http://www.jdn.co.il/
+    http://www.jdn.co.il/wp-content/uploads/2016/04/cropped-%D7%9C%D7%95%D7%92%D7%95-%D7%90%D7%AA%D7%A8-%D7%97%D7%93%D7%A9-192x192.jpg
+    
+    לדעת
+    http://ladaat.info/
+    http://ladaat.info/Images/Elements/Icons/favicon.ico
+    
+    רדיו קול חי
+    http://www.93fm.co.il/
+    http://www.93fm.co.il/favicon.ico
+    
+    
