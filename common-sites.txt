@@ -9,14 +9,11 @@
     https://mail.google.com/
     https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
 
-    הוטמייל
-    https://hotmail.com/
+    אוטלוק - הוטמייל
+    https://www.outlook.com/
 
     יאהו
     https://mail.yahoo.com/
-
-    מייל ערוץ שבע
-    http://www.inn.co.il/
 
 %% בנקים
 
@@ -58,7 +55,7 @@
     http://www.amazon.com/
 
     נקסט
-    http://www.next.co.uk/
+    http://il.nextdirect.com
 
     עלי אקספרס - אנגלית
     http://www.aliexpress.com/
@@ -81,7 +78,7 @@
     http://www.rail.co.il/
     
     קווים עילית
-    http://www.illit-t.co.il/home/
+    http://www.illit-t.co.il/
     
     סופרבוס
     http://www.superbus.co.il/
@@ -144,3 +141,56 @@
     
     משרד הבריאות
     http://www.health.gov.il/
+
+%% אשראי
+
+    לאומי כארד
+    https://www.leumi-card.co.il/
+
+    ויזה כאל
+    https://www.cal-online.co.il/
+
+    ישראכרט
+    https://digital.isracard.co.il/
+
+    אמריקן אקספרס - ישראל
+    https://he.americanexpress.co.il/
+
+    אמריקן אקספרס
+    https://www.americanexpress.com/
+
+%%תורני
+
+    היברו בוקס
+    http://www.hebrewbooks.org/
+
+    קול הלשון
+    http://www.kolhalashon.com/
+
+    תורת אמת
+    http://www.toratemetfreeware.com/
+
+   אוצר החכמה
+   http://www.otzar.org/
+
+%% מפות וניווט
+
+    ווייז
+    https://www.waze.com/
+
+    מפות גוגל
+    https://maps.google.com/
+
+    מפות Ynet
+    http://ymap.ynet.co.il/
+
+    מפות בינג
+    http://www.bing.com/maps/
+
+%% שפות ותרגומים
+
+    תרגום גוגל
+    https://translate.google.com/
+
+    תרגום בינג
+    https://www.bing.com/translator/    
