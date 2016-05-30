@@ -17,18 +17,33 @@
 
 %% בנקים
 
+    בנק אגוד
+    http://www.unionbank.co.il
+
     בנק דיסקונט
     https://www.discountbank.co.il/
 
     בנק הפועלים
     https://www.bankhapoalim.co.il/
     
+    בנק יהב
+    https://www.yahav.co.il/
+
+    בנק ירושלים
+    https://www.bankjerusalem.co.il/
+
     בנק לאומי
     https://www.leumi.co.il/
 
     בנק מזרחי טפחות
     https://www.mizrahi-tefahot.co.il/
       
+    בנק מסד
+    https://online.bankmassad.co.il
+
+    בנק מרכנתיל
+    https://www.mercantile.co.il/
+
     בנק פאגי
     https://online.pagi.co.il/
 
@@ -295,7 +310,7 @@
     http://www.jumbomail.co.il/
     
     העברת קבצים גדולים
-    http://magicode.613m.org/send-file/upload/#
+    http://magicode.me/send-file/upload/#
     
 %% קופות חולים
     
