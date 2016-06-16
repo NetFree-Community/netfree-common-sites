@@ -215,6 +215,9 @@
     קשר כשר
     http://kkasher.co.il/
 
+    כתובות וטלפונים בארה"ב
+    http://www.whitepages.com/
+
 %% מנועי חיפוש
 
     גוגל
@@ -226,7 +229,7 @@
     http://mishnatyosef.org/
 
     המכירה השכונתית
-    www.sales.org.il/
+    http://www.sales.org.il/
 
 %% מפות וניווט
 
@@ -272,6 +275,9 @@
     נתיב
     http://forum.enativ.com/
     
+    אידישע וועלט
+    http://www.ivelt.com/forum/index.php
+
 %% קופות חולים
     
     מכבי
@@ -384,7 +390,7 @@
 
 %% תחזית מזג אויר
 
-    השרות המטרולוגי
+    השרות המטארולוגי
     http://www.ims.gov.il/ims/all_tahazit/
 	
     חזי דיין    
