@@ -181,6 +181,9 @@
     
     חדשות כלכלה
     http://www.sponser.co.il/
+    
+    מדדי מניות וסקטורים בעולם
+    https://il.investing.com/indices/%D7%A9%D7%A2%D7%A8%D7%99-%D7%9E%D7%93%D7%93%D7%99%D7%9D-%D7%A2%D7%95%D7%9C%D7%9E%D7%99%D7%99%D7%9D
 
 %% לוחות
 
@@ -312,7 +315,7 @@
     http://www.amazon.com/
 
     נקסט
-    http://il.nextdirect.com
+    http://il.nextdirect.com/iw/
 
     עלי אקספרס - אנגלית
     http://www.aliexpress.com/
@@ -358,6 +361,9 @@
 	
     תפילות
     http://www.tfilot.co.il/
+    
+    עלונים - גליונות פרשת השבוע
+    http://www.ladaat.info/gilyonot.aspx
 
 %% תחבורה
 
@@ -387,6 +393,9 @@
     
     רב קו אונליין
     https://ravkavonline.co.il/he/
+    
+    איפה בוס
+    http://www.efobus.com/
 
 %% תחזית מזג אויר
 
@@ -433,3 +442,6 @@
     
     פרי פקס
     http://www.freefax.co.il/
+    
+    מי פקס
+    https://www.myfax.co.il/
