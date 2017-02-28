@@ -99,6 +99,9 @@
 
     בנק פאגי
     https://online.pagi.co.il/
+    
+    הבנק הבינלאומי
+    https://online.fibi.co.il/wps/portal
 
 %% בתי חולים
 
