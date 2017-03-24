@@ -276,6 +276,21 @@
 
     תל אביב
     http://www.tel-aviv.gov.il
+    
+    מודיעין עילית
+    http://www.modil.org.il/
+    
+    ביתר עילית
+    http://www.betar-illit.muni.il/
+    
+    אלעד
+    http://www.elad.muni.il/
+    
+    אשדוד
+    http://www.ashdod.muni.il/
+    
+    אופקים
+    http://www.ofaqim.muni.il/
 
 %% עמותות
 
