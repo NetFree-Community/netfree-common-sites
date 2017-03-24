@@ -203,6 +203,18 @@
 
     ג'ואיש מיוזיק FM
     http://jewishmusic.fm/
+    
+    Jmusic
+    http://jmusic.me/
+    
+    טוקר FM
+    http://www.toker.fm/
+    
+    גאולה FM
+    http://www.geula.fm/
+    
+    קול חי מיוזיק
+    http://www.93fm.co.il/players/music.html
 
 %% מודיעין
 
