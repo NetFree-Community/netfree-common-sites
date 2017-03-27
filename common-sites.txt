@@ -158,6 +158,14 @@
     EMS
     http://www.ems.post/
 
+%% הורדות
+    
+    תוכנות להורדה
+    http://softwares.center/
+    
+    תוספי כרום
+    http://v8200.top/Downloads/ChromeExtensions
+
 %% חדשות
 
     JDN
@@ -169,6 +177,11 @@
     רדיו קול חי
     http://www.93fm.co.il/
 
+%% וידאו
+
+    וידאו טוב
+    http://video-tov.ml/
+    
 %% יהדות
     
     מצלמות הכותל
