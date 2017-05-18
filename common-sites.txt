@@ -186,8 +186,11 @@
     http://video-tov.ml/
     
 %% יהדות
-    
-    מצלמות הכותל
+	
+	מצלמות הכותל
+	http://957-957.wixsite.com/kotel
+	
+	הקרן למורשת הכותל המערבי
     http://www.thekotel.org/kotel/kotel_cameras/
 
 %% כלכלה
