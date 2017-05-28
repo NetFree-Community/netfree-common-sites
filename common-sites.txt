@@ -22,6 +22,7 @@
     
     משרד המשפטים
     http://index.justice.gov.il/
+    http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
     
     משרד התחבורה
     http://he.mot.gov.il/
@@ -40,6 +41,7 @@
     
     המשרד להגנת הסביבה
     http://www.sviva.gov.il/
+    http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
     
     משרד הפנים
     http://www.moin.gov.il/
@@ -93,12 +95,14 @@
 
     בנק מזרחי טפחות
     https://www.mizrahi-tefahot.co.il/
+    https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
       
     בנק מסד
     https://online.bankmassad.co.il
 
     בנק מרכנתיל
     https://www.mercantile.co.il/
+    https://www.mercantile.co.il/MB/sites/mercantile.co.il/files/favicon_0.ico
 
     בנק פאגי
     https://online.pagi.co.il/
@@ -119,6 +123,7 @@
 
     בית חולים אסף הרופא
     http://www.assafh.org/
+    http://www.assafh.org/favicon.ico
 
     בית חולים רמב"ם
     http://www.rambam.org.il/
@@ -126,8 +131,8 @@
     בית חולים וולפסון
     http://www.wolfson.org.il/
 
-     בית חולים הדסה
-     http://www.hadassah.org.il/
+    בית חולים הדסה
+    http://www.hadassah.org.il/
 
     בית חולים שערי צדק
     https://www.szmc.org.il/
@@ -188,9 +193,10 @@
 %% יהדות
 	
 	מצלמות הכותל
-	http://957-957.wixsite.com/kotel
+    http://957-957.wixsite.com/kotel
+    https://www.wix.com/favicon.ico
 	
-	הקרן למורשת הכותל המערבי
+    הקרן למורשת הכותל המערבי
     http://www.thekotel.org/kotel/kotel_cameras/
 
 %% כלכלה
@@ -236,6 +242,7 @@
 
     חיפוש 144
     http://www.b144.co.il/Default.aspx
+    https://www.b144.co.il/favicon.ico
     
     חיפוש הפוך
     http://441il.com/
@@ -256,6 +263,7 @@
 
     גוגל
     https://www.google.com/
+    https://www.google.co.il/images/branding/product/ico/googleg_lodp.ico
  
 %% מכירות
 
@@ -281,31 +289,31 @@
    
 %% עיריות
 
-    ירושלים
+    עיריית ירושלים
     http://www.jerusalem.muni.il/
 
-    בני ברק
+    עיריית בני ברק
     http://www.bnei-brak.muni.il/
 
-    בית שמש
+    עיריית בית שמש
     http://betshemesh.muni.il/
 
-    תל אביב
+    עיריית תל אביב
     http://www.tel-aviv.gov.il
     
-    מודיעין עילית
+    עיריית מודיעין עילית
     http://www.modil.org.il/
     
-    ביתר עילית
+    עיריית ביתר עילית
     http://www.betar-illit.muni.il/
     
-    אלעד
+    עיריית אלעד
     http://www.elad.muni.il/
     
-    אשדוד
+    עיריית אשדוד
     http://www.ashdod.muni.il/
     
-    אופקים
+    עיריית אופקים
     http://www.ofaqim.muni.il/
 
 %% עמותות
@@ -318,13 +326,13 @@
 
 %% פורומים חרדיים
 
-    נטפרי
+    פורום נטפרי
     http://forum.netfree.link/
     
     פרוג
     http://www.prog.co.il/
 	
-    נתיב
+    פורום נתיב
     http://forum.enativ.com/
     
     אידישע וועלט
@@ -395,12 +403,14 @@
 
     קול הלשון
     http://www.kolhalashon.com/
+	http://www.kolhalashon.com/FavIcon.ico
 	
-      תורת אמת
+    תורת אמת
     http://www.toratemetfreeware.com/
 
     פורום לתורה
     http://www.tora-forum.co.il/
+    http://www.tora-forum.co.il/ext/tatiana5/favicon/favicon.ico
 
     אוצר החכמה
     http://www.otzar.org/
@@ -451,7 +461,7 @@
 
 %% תחזית מזג אויר
 
-    השרות המטארולוגי
+    השירות המטאורולוגי
     http://www.ims.gov.il/ims/all_tahazit/
 	
     חזי דיין    
