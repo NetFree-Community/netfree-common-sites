@@ -379,13 +379,16 @@
     עלי אקספרס - עברית
     http://he.aliexpress.com/
 
-%% שיתוף קבצים
+%% שליחת קבצים גדולים
 
     ג'מבו מייל
     http://www.jumbomail.co.il/
     
     העברת קבצים גדולים
     http://magicode.me/send-file/upload/#
+    
+    פי קלאוד
+    https://transfer.pcloud.com/
     
 %% שפות ותרגומים
 
