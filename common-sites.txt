@@ -317,6 +317,9 @@
 
 %% עמותות
 
+    בוני עולם
+    http://www.boneiolam.co.il/
+    
     עזר מציון
     http://www.ami.org.il/
 
