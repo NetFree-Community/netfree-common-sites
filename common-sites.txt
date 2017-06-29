@@ -19,6 +19,7 @@
 
     משרד האוצר
     http://www.mof.gov.il/
+	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
     
     משרד המשפטים
     http://index.justice.gov.il/
@@ -35,9 +36,11 @@
     
     ביטוח לאומי
     https://www.btl.gov.il/
+	https://www.btl.gov.il/SiteCollectionImages/favicon.ico
     
     משרד הרווחה
     http://www.molsa.gov.il/
+	http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
     
     המשרד להגנת הסביבה
     http://www.sviva.gov.il/
@@ -48,6 +51,7 @@
     
     משרד הבינוי והשיכון
     http://www.moch.gov.il/
+	http://www.moch.gov.il/_catalogs/masterpage/favicon.ico
     
     משרד הבטחון
     http://www.mod.gov.il/
@@ -63,6 +67,7 @@
     
     חברת החשמל לישראל
     http://www.iec.co.il/
+	https://www.iec.co.il/Style%20Library/Iec/Images/favicon.ico
     
     משרד הבריאות
     http://www.health.gov.il/
@@ -114,6 +119,7 @@
 
     בית חולים תל השומר
     http://www.sheba.co.il/
+	https://www.sheba.co.il/site/images/favicomatic/favicon-32x32.png
 
     בית חולים איכילוב
     http://www.tasmc.org.il/
@@ -127,6 +133,7 @@
 
     בית חולים רמב"ם
     http://www.rambam.org.il/
+	https://www.rambam.org.il/_layouts/images/RambamSite/rambam-icon.ico
 
     בית חולים וולפסון
     http://www.wolfson.org.il/
@@ -192,7 +199,7 @@
     
 %% יהדות
 	
-	מצלמות הכותל
+    מצלמות הכותל
     http://957-957.wixsite.com/kotel
     https://www.wix.com/favicon.ico
 	
@@ -408,12 +415,14 @@
 
     קול הלשון
     http://www.kolhalashon.com/
+    http://www.kolhalashon.com/FavIcon.ico
 	
     תורת אמת
     http://www.toratemetfreeware.com/
 
     פורום לתורה
     http://www.tora-forum.co.il/
+	http://www.tora-forum.co.il/ext/tatiana5/favicon/favicon.ico
 
     אוצר החכמה
     http://www.otzar.org/
