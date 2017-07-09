@@ -270,6 +270,7 @@
 
     גוגל
     https://www.google.com/
+    https://www.google.co.il/images/branding/product/ico/googleg_lodp.ico
     
 %% מכירות
 
