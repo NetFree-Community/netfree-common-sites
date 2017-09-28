@@ -232,7 +232,7 @@
     http://www.homeless.co.il/
     
     dira4me
-    http://http://dira4me.co.il/
+    http://dira4me.co.il/
     http://dira4me.co.il/wp-content/themes/bait/assets/images/logo.gif
     
 %% מוסיקה
