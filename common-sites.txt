@@ -19,7 +19,7 @@
 
     משרד האוצר
     http://www.mof.gov.il/
-	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
+    http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
     
     משרד המשפטים
     http://index.justice.gov.il/
@@ -541,7 +541,7 @@
 
     הוט מובייל
     https://www.hotmobile.co.il
-	
+    
     רמי לוי תקשורת
     https://mobile.rami-levy.co.il/
 
@@ -551,8 +551,12 @@
     בדיקת מהירות גלישה
     http://www.bezeq.co.il/internetandphone/internet/speedtest/
     
+    שליחת פקס בחינם
+    https://ifax.co.il/
+    
     פרי פקס
     http://www.freefax.co.il/
     
     מי פקס
     https://www.myfax.co.il/
+    
