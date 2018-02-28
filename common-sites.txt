@@ -420,9 +420,6 @@
     העברת קבצים גדולים
     http://magicode.me/send-file/upload/#
     
-    פי קלאוד
-    https://transfer.pcloud.com/
-    
 %% שפות ותרגומים
 
     תרגום גוגל
