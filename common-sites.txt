@@ -192,6 +192,9 @@
     רדיו קול חי
     http://www.93fm.co.il/
     
+    כל רגע
+    http://kore.co.il/
+    
     המודיע (באנגלית)
     http://hamodia.com/
 
@@ -266,6 +269,12 @@
     
     חיפוש הפוך
     http://441il.com/
+    
+    חיפוש הפוך ברשת
+    http://441israel.com/
+    
+    זיהוי מספרי טלפון
+    https://www.truecaller.com/
     
     המדריך החרדי
     https://www.402.co.il/
