@@ -429,6 +429,9 @@
     העברת קבצים גדולים
     http://magicode.me/send-file/upload/#
     
+    myairbridge
+    https://www.myairbridge.com/eng/
+    
 %% שפות ותרגומים
 
     תרגום גוגל
