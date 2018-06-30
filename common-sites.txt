@@ -438,6 +438,9 @@
     myairbridge
     https://www.myairbridge.com/eng/
     
+    Smash
+    https://www.fromsmash.com/
+    
 %% שפות ותרגומים
 
     תרגום גוגל
