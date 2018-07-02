@@ -209,8 +209,7 @@
 %% יהדות
 	
     מצלמות הכותל
-    http://957-957.wixsite.com/kotel
-    https://www.wix.com/favicon.ico
+    http://kotel-cam.ml/
 	
     הקרן למורשת הכותל המערבי
     http://www.thekotel.org/kotel/kotel_cameras/
