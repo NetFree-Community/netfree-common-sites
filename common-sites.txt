@@ -177,9 +177,6 @@
     
     תוכנות להורדה
     http://softwares.center/
-    
-    תוספי כרום
-    http://v8200.top/Downloads/ChromeExtensions
 
 %% חדשות
 
