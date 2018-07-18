@@ -184,7 +184,7 @@
 	http://www.jdn.co.il/
 
 	לדעת
-	http://ladaat.info/
+	http://ladaat.co/
 
 	רדיו קול חי
 	http://www.93fm.co.il/
@@ -312,9 +312,6 @@
 	מפות גוגל
 	https://maps.google.com/
 
-	מפות Ynet
-	http://ymap.ynet.co.il/
-
 	מפות בינג
 	http://www.bing.com/maps/
 
@@ -429,7 +426,7 @@
 	http://www.jumbomail.co.il/
 
 	העברת קבצים גדולים
-	http://magicode.me/send-file/upload/#
+	https://send.magicode.me/
 
 	myairbridge
 	https://www.myairbridge.com/eng/
