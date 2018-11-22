@@ -477,7 +477,7 @@
 	http://www.tfilot.co.il/
 
 	עלונים - גליונות פרשת השבוע
-	http://www.ladaat.info/gilyonot.aspx
+	http://www.ladaat.info/gilyonot.aspx?view=1
 
 	שטייגען
 	http://shtaygen.co.il/
