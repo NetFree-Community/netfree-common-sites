@@ -248,6 +248,9 @@
 
 	מדלן
 	https://www.madlan.co.il/
+	
+	גלאט 2
+	https://www.glat2.co.il/
 
 %% מוסיקה
 
@@ -360,6 +363,9 @@
 
 	יד שרה
 	http://www.yadsarah.org.il/
+	
+	אאוטנט
+        http://out-net.org/
 
 %% פורומים חרדיים
 
