@@ -26,8 +26,8 @@
 	http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
 
 	משרד התחבורה
-	http://he.mot.gov.il/
-
+	https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety
+	
 	משרד החינוך
 	http://cms.education.gov.il/
 
