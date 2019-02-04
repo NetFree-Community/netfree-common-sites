@@ -446,9 +446,6 @@
 	Smash
 	https://www.fromsmash.com/
 
-	WeTransfer
-	https://wetransfer.com/
-
 %% שפות ותרגומים
 
 	תרגום גוגל
