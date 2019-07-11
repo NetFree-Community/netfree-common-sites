@@ -279,11 +279,9 @@
 	חיפוש הפוך
 	http://441il.com/
 
-	חיפוש הפוך ברשת
-	http://441israel.com/
-
 	זיהוי מספרי טלפון
 	https://www.truecaller.com/
+	https://www.google.com/s2/favicons?domain=truecaller.com
 
 	המדריך החרדי
 	https://www.402.co.il/
@@ -366,7 +364,8 @@
 	http://www.ami.org.il/
 
 	יד שרה
-	http://www.yadsarah.org.il/
+	https://yad-sarah.net/
+	https://www.google.com/s2/favicons?domain=https://en.yad-sarah.net/
 	
 	אאוטנט
         http://out-net.net/
@@ -482,9 +481,6 @@
 
 	תהילים
 	http://www.tehilim.org.il/
-
-	תפילות
-	http://www.tfilot.co.il/
 
 	עלונים - גליונות פרשת השבוע
 	http://www.ladaat.info/gilyonot.aspx?view=1
