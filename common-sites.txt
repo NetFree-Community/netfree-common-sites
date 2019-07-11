@@ -129,11 +129,10 @@
 
 	בית חולים אסף הרופא
 	http://www.assafh.org/
-	http://www.assafh.org/favicon.ico
+	https://www.google.com/s2/favicons?domain=shamir-friends.forms-wizard.co.il
 
 	בית חולים רמב"ם
 	http://www.rambam.org.il/
-	https://www.rambam.org.il/_layouts/images/RambamSite/rambam-icon.ico
 
 	בית חולים וולפסון
 	http://www.wolfson.org.il/
