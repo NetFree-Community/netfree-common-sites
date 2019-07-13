@@ -1,13 +1,14 @@
 %% אשראי
 
 	לאומי כארד
-	https://www.leumi-card.co.il/
+	https://www.max.co.il/
 
 	ויזה כאל
 	https://www.cal-online.co.il/
 
 	ישראכרט
 	https://digital.isracard.co.il/
+	https://digital.isracard.co.il/statics/css/themes/Isracard/img/apple-touch-icon-iphone-60x60.png
 
 	אמריקן אקספרס - ישראל
 	https://he.americanexpress.co.il/
@@ -27,9 +28,9 @@
 
 	משרד התחבורה
 	https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety
-	
+
 	משרד החינוך
-	http://cms.education.gov.il/
+	https://edu.gov.il/
 
 	פיקוד העורף
 	http://www.oref.org.il/
@@ -209,7 +210,7 @@
 
 	הקרן למורשת הכותל המערבי
 	http://www.thekotel.org/kotel/kotel_cameras/
-	
+
 	זמני היום בהלכה בכל מקום בעולם
 	https://www.myzmanim.com/
 
@@ -247,12 +248,12 @@
 
 	מדלן
 	https://www.madlan.co.il/
-	
+
 	גלאט 2
 	https://www.glat2.co.il/
-	
+
 %% לימודים
-	
+
 	שיעורים פרטיים במתמטיקה
 	http://שיעורים-פרטיים-במתמטיקה.com/
 
@@ -281,7 +282,7 @@
 
 	זיהוי מספרי טלפון
 	https://www.truecaller.com/
-	https://www.google.com/s2/favicons?domain=truecaller.com
+	https://www.truecaller.com/favicon.ico
 
 	המדריך החרדי
 	https://www.402.co.il/
@@ -366,7 +367,7 @@
 	יד שרה
 	https://yad-sarah.net/
 	https://www.google.com/s2/favicons?domain=https://en.yad-sarah.net/
-	
+
 	אאוטנט
         http://out-net.net/
 
@@ -484,7 +485,7 @@
 
 	עלונים - גליונות פרשת השבוע
 	http://www.ladaat.info/gilyonot.aspx?view=1
-	
+
 	עלונים - גליונות
 	https://yiddishevinkel.com/gilyones
 
@@ -496,10 +497,10 @@
 
 	אוצר הספרים היהודי השיתופי
 	https://wiki.jewishbooks.org.il/mediawiki/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
-	
+
 	מורשת מרן
 	http://moreshet-maran.com/
-	
+
 	קו ההלכה הספרדי
 	https://kavhalacha.co.il/index.php
 
