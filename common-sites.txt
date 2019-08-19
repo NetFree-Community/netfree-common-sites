@@ -561,13 +561,14 @@
 
 	סופרבוס
 	http://www.superbus.co.il/
+	https://bus.gov.il/Content/images/BusOperators/company_13.png
 
 	מטרופולין
 	http://www.metropoline.com/
 
 	נתיב אקספרס
 	http://www.nateevexpress.com/
-	
+
 	אפיקים
 	http://www.afikim-t.co.il/
 
