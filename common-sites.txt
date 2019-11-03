@@ -376,6 +376,9 @@
 
 %% פורומים חרדיים
 
+	מתמחים.טופ
+	https://mitmachim.top/
+	
 	פרוג
 	http://www.prog.co.il/
 
@@ -601,7 +604,7 @@
 %% תקשורת
 
 	השוואת חברות הסינון
-	http://atchalta.org/he/compare-internet-providers/
+	http://atchalta.org/he/compare-kosher-internet-providers/
 
 	בזק
 	http://www.bezeq.co.il/
