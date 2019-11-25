@@ -474,6 +474,9 @@
 
 	היברו בוקס
 	http://www.hebrewbooks.org/
+	
+	ספרייה - טקסטים תורניים
+	https://www.sefaria.org.il/
 
 	קול הלשון
 	http://www.kolhalashon.com/
