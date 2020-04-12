@@ -450,6 +450,9 @@
 	גוגל האנגאוטס
 	https://hangouts.google.com/
 	
+	זום
+	https://zoom.us/
+	
 	ספייק
 	https://video.spike.chat/
 	
