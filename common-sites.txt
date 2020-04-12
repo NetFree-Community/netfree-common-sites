@@ -445,6 +445,20 @@
 	עלי אקספרס - עברית
 	http://he.aliexpress.com/
 
+%% שיחות וידאו
+	
+	גוגל האנגאוטס
+	https://hangouts.google.com/
+	
+	ספייק
+	https://video.spike.chat/
+	
+	טאקי
+	https://talky.io/ 
+	
+	AppRTC
+	https://appr.tc/
+
 %% שליחת קבצים גדולים
 
 	ג'מבו מייל
