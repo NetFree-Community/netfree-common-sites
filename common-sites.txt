@@ -470,9 +470,6 @@
 	העברת קבצים גדולים
 	https://send.magicode.me/
 
-	FileMail
-	https://www.filemail.com/
-
 	myairbridge
 	https://www.myairbridge.com/eng/
 
