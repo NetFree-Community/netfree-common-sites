@@ -206,7 +206,7 @@
 %% יהדות
 
 	מצלמות הכותל
-	http://kotel-cam.ml/
+	http://kotel-cams.ml/
 
 	הקרן למורשת הכותל המערבי
 	http://www.thekotel.org/kotel/kotel_cameras/
