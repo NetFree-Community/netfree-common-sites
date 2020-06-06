@@ -610,7 +610,7 @@
 %% תחזית מזג אויר
 
 	השירות המטאורולוגי
-	http://www.ims.gov.il/ims/all_tahazit/
+	https://ims.gov.il/he/Forecasts
 
 	חזי דיין
 	http://israelweather.co.il/forecast/index.html
