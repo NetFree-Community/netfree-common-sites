@@ -321,6 +321,9 @@
 
 %% מפות וניווט
 
+	ווייז
+	https://www.waze.com/he/
+
 	מפות גוגל
 	https://maps.google.com/
 
