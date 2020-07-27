@@ -259,6 +259,9 @@
 
 	שיעורים פרטיים במתמטיקה
 	http://שיעורים-פרטיים-במתמטיקה.com/
+	
+	מתמטיקה - M-math
+	https://www.m-math.co.il/
 
 %% מוסיקה
 
@@ -317,9 +320,6 @@
 	http://www.sales.org.il/
 
 %% מפות וניווט
-
-	ווייז
-	https://www.waze.com/he/
 
 	מפות גוגל
 	https://maps.google.com/
@@ -453,6 +453,9 @@
 	זום
 	https://zoom.us/
 	
+	גוגל מיט
+	https://meet.google.com/
+	
 	ספייק
 	https://video.spike.chat/
 	
@@ -472,6 +475,9 @@
 
 	Smash
 	https://www.fromsmash.com/
+	
+	פיירפוקס סנד
+	https://send.firefox.com/
 
 %% שפות ותרגומים
 
@@ -569,6 +575,9 @@
 
 	מודיעין ארצי
 	http://www.bus.co.il
+	
+	מוביט (moovit)
+	https://moovitapp.com/
 
 	אגד
 	http://www.egged.co.il/
@@ -633,10 +642,10 @@
 	http://www.pelephone.co.il/
 
 	סלקום
-	http://www.cellcom.co.il
+	https://www.cellcom.co.il/
 
 	הוט מובייל
-	https://www.hotmobile.co.il
+	https://www.hotmobile.co.il/
 
 	רמי לוי תקשורת
 	https://mobile.rami-levy.co.il/
@@ -655,4 +664,3 @@
 
 	מי פקס
 	https://www.myfax.co.il/
-
