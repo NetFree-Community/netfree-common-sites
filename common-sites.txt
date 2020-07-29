@@ -476,12 +476,6 @@
 	העברת קבצים גדולים
 	https://send.magicode.me/
 
-	Smash
-	https://www.fromsmash.com/
-	
-	פיירפוקס סנד
-	https://send.firefox.com/
-
 %% שפות ותרגומים
 
 	תרגום גוגל
