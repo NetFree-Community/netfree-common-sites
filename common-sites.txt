@@ -475,6 +475,15 @@
 
 	העברת קבצים גדולים
 	https://send.magicode.me/
+	
+	דרופבוקס
+	https://www.dropbox.com/
+	
+	filemail
+	https://www.filemail.com/
+	
+	WeTransfer
+	https://wetransfer.com/
 
 %% שפות ותרגומים
 
