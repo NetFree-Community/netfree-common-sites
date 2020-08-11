@@ -179,9 +179,6 @@
 	http://softwares.center/
 
 %% חדשות
-
-	בימה
-	https://www.bimmae.com/main 
 	 
 	JDN
 	http://www.jdn.co.il/
@@ -194,6 +191,9 @@
 
 	כל רגע
 	http://kore.co.il/
+	
+	בימה
+	https://www.bimmae.com/main 
 
 	המודיע (באנגלית)
 	http://hamodia.com/
@@ -381,9 +381,6 @@
         http://out-net.net/
 
 %% פורומים חרדיים
-
-	מתמחים.טופ
-	https://mitmachim.top/
 	
 	פרוג
 	http://www.prog.co.il/
