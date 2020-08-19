@@ -621,6 +621,9 @@
 
 	לו"ז משרד התחבורה
 	https://bus.gov.il/
+	
+	כביש 6
+	https://www.kvish6.co.il/
 
 %% תחזית מזג אויר
 
