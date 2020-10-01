@@ -1,0 +1,433 @@
+
+%% דואר אלקטרוני
+
+	ג'ימייל
+	https://mail.google.com/
+	https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+
+	אוטלוק - הוטמייל
+	https://www.outlook.com/
+
+%% שליחת קבצים גדולים
+
+	ג'מבו מייל
+	http://www.jumbomail.co.il/
+
+	העברת קבצים גדולים
+	https://send.magicode.me/
+	
+	דרופבוקס
+	https://www.dropbox.com/
+	
+	filemail
+	https://www.filemail.com/
+	
+	WeTransfer
+	https://wetransfer.com/
+
+%% בנקים
+
+	בנק אגוד
+	http://www.unionbank.co.il
+
+	בנק דיסקונט
+	https://www.discountbank.co.il/
+
+	בנק הדואר
+	https://www.bankhadoar.co.il/
+
+	בנק הפועלים
+	https://www.bankhapoalim.co.il/
+
+	בנק יהב
+	https://www.yahav.co.il/
+
+	בנק ירושלים
+	https://www.bankjerusalem.co.il/
+
+	בנק לאומי
+	https://www.leumi.co.il/
+
+	בנק מזרחי טפחות
+	https://www.mizrahi-tefahot.co.il/
+	https://www.mizrahi-tefahot.co.il/Style%20Library/Mizrahi/Images/favicon.jpg
+
+	בנק מסד
+	https://online.bankmassad.co.il
+
+	בנק מרכנתיל
+	https://www.mercantile.co.il/
+	https://www.mercantile.co.il/MB/sites/mercantile.co.il/files/favicon_0.ico
+
+	בנק פאגי
+	https://online.pagi.co.il/
+
+	הבנק הבינלאומי
+	https://online.fibi.co.il/wps/portal
+
+%% אשראי
+
+	לאומי כארד
+	https://www.max.co.il/
+
+	ויזה כאל
+	https://www.cal-online.co.il/
+
+	ישראכרט
+	https://digital.isracard.co.il/
+	https://digital.isracard.co.il/statics/css/themes/Isracard/img/apple-touch-icon-iphone-60x60.png
+
+	אמריקן אקספרס - ישראל
+	https://he.americanexpress.co.il/
+
+	אמריקן אקספרס
+	https://www.americanexpress.com/
+
+%% אתרי ממשלה
+
+	משרד האוצר
+	http://www.mof.gov.il/
+	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
+
+	משרד המשפטים
+	http://index.justice.gov.il/
+	http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
+
+	משרד התחבורה
+	https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety
+
+	משרד החינוך
+	https://edu.gov.il/
+
+	פיקוד העורף
+	http://www.oref.org.il/
+
+	ביטוח לאומי
+	https://www.btl.gov.il/
+	https://www.btl.gov.il/SiteCollectionImages/favicon.ico
+
+	משרד הרווחה
+	http://www.molsa.gov.il/
+	http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
+
+	המשרד להגנת הסביבה
+	http://www.sviva.gov.il/
+	http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
+
+	משרד הפנים
+	http://www.moin.gov.il/
+
+	משרד הבינוי והשיכון
+	http://www.moch.gov.il/
+	http://www.moch.gov.il/_catalogs/masterpage/favicon.ico
+
+	משרד הבטחון
+	http://www.mod.gov.il/
+
+	משרד החוץ
+	http://mfa.gov.il/
+
+	משרד העליה והקליטה
+	http://www.moia.gov.il/
+
+	משרד הכלכלה והתעשיה
+	http://www.economy.gov.il/
+
+	חברת החשמל לישראל
+	http://www.iec.co.il/
+	https://www.iec.co.il/Style%20Library/Iec/Images/favicon.ico
+
+	משרד הבריאות
+	http://www.health.gov.il/
+
+	רשות המיסים
+	https://taxes.gov.il/
+
+
+%% קופות חולים
+
+	מכבי
+	http://www.maccabi4u.co.il
+
+	כללית
+	http://www.clalit.co.il/
+
+	מאוחדת
+	https://www.meuhedet.co.il
+
+	לאומית
+	http://www.leumit.co.il/
+
+%% בתי חולים
+
+	בית חולים תל השומר
+	http://www.sheba.co.il/
+	https://www.sheba.co.il/site/images/favicomatic/favicon-32x32.png
+
+	בית חולים איכילוב
+	http://www.tasmc.org.il/
+
+	בית חולים מעיני הישועה
+	http://www.mymc.co.il/
+
+	בית חולים אסף הרופא
+	http://www.assafh.org/
+	https://www.google.com/s2/favicons?domain=shamir-friends.forms-wizard.co.il
+
+	בית חולים רמב"ם
+	http://www.rambam.org.il/
+
+	בית חולים וולפסון
+	http://www.wolfson.org.il/
+
+	בית חולים הדסה
+	http://www.hadassah.org.il/
+
+	בית חולים שערי צדק
+	https://www.szmc.org.il/
+
+%% דואר ושליחויות
+
+	דואר ישראל
+	http://www.israelpost.co.il/
+
+	UPS
+	https://www.ups.com/
+
+	DHL
+	http://www.dhl.com/
+
+	צ'יטה
+	http://www.chitadelivery.co.il/
+
+	EMS
+	http://www.ems.post/
+
+%% כלכלה
+
+	בורסת ישראל
+	http://www.tase.co.il/Heb/Pages/Homepage.aspx
+
+	שערי מט"ח
+	http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
+
+
+%% מודיעין
+
+	חיפוש 144
+	http://www.b144.co.il/Default.aspx
+	https://www.b144.co.il/favicon.ico
+
+	חיפוש הפוך
+	http://441il.com/
+
+	זיהוי מספרי טלפון
+	https://www.truecaller.com/
+	https://www.truecaller.com/favicon.ico
+
+	המדריך החרדי
+	https://www.402.co.il/
+
+	מפתח הקהילות
+	http://www.m-hakehilot.co.il/
+
+	דפי זהב
+	http://www.d.co.il/
+
+	קשר כשר
+	http://kkasher.co.il/
+
+	כתובות וטלפונים בארה"ב
+	http://www.whitepages.com/
+
+%% מפות וניווט
+
+	ווייז
+	https://www.waze.com/he/
+
+	מפות גוגל
+	https://maps.google.com/
+
+	מפות בינג
+	http://www.bing.com/maps/
+
+%% עיריות
+
+	עיריית ירושלים
+	http://www.jerusalem.muni.il/
+
+	עיריית בני ברק
+	http://www.bnei-brak.muni.il/
+
+	עיריית בית שמש
+	http://betshemesh.muni.il/
+
+	עיריית תל אביב
+	http://www.tel-aviv.gov.il
+
+	עיריית מודיעין עילית
+	http://www.modil.org.il/
+
+	עיריית ביתר עילית
+	http://www.betar-illit.muni.il/
+
+	עיריית אלעד
+	http://www.elad.muni.il/
+
+	עיריית אשדוד
+	http://www.ashdod.muni.il/
+
+	עיריית אופקים
+	http://www.ofaqim.muni.il/
+
+	עיריית פתח תקוה
+	http://www.petah-tikva.muni.il/Pages/default.aspx
+
+
+%% שפות ותרגומים
+
+	תרגום גוגל
+	https://translate.google.com/
+
+	תרגום בינג
+	https://www.bing.com/translator/
+
+%% תחבורה
+
+	מודיעין ארצי
+	http://www.bus.co.il
+	
+	מוביט (moovit)
+	https://moovitapp.com/
+
+	אגד
+	http://www.egged.co.il/
+
+	דן
+	http://www.dan.co.il/
+
+	רכבת ישראל
+	http://www.rail.co.il/
+
+	קווים עילית
+	http://www.illit-t.co.il/
+
+	סופרבוס
+	http://www.superbus.co.il/
+	https://bus.gov.il/Content/images/BusOperators/company_13.png
+
+	מטרופולין
+	http://www.metropoline.com/
+
+	נתיב אקספרס
+	http://www.nateevexpress.com/
+
+	אפיקים
+	http://www.afikim-t.co.il/
+
+	רב קו אונליין
+	https://ravkavonline.co.il/he/
+
+	איפה בוס
+	http://www.efobus.com/
+
+	לו"ז משרד התחבורה
+	https://bus.gov.il/
+	
+	כביש 6
+	https://www.kvish6.co.il/
+
+%% תחזית מזג אויר
+
+	השירות המטאורולוגי
+	https://ims.gov.il/he/Forecasts
+
+	חזי דיין
+	http://israelweather.co.il/forecast/index.html
+
+	ירושמיים
+	http://www.02ws.co.il/
+
+%% תקשורת
+
+	בזק
+	http://www.bezeq.co.il/
+
+	הוט
+	http://www.hot.net.il//heb/internetandtelephone/
+
+	פרטנר
+	https://www.partner.co.il/
+
+	פלאפון
+	http://www.pelephone.co.il/
+
+	סלקום
+	https://www.cellcom.co.il/
+
+	הוט מובייל
+	https://www.hotmobile.co.il/
+	
+	גולן טלקום
+        https://www.golantelecom.co.il/
+	
+	רמי לוי תקשורת
+	https://mobile.rami-levy.co.il/
+
+	019
+	https://019mobile.co.il/
+
+	בדיקת מהירות גלישה
+	http://www.bezeq.co.il/internetandphone/internet/speedtest/
+
+	שליחת פקס בחינם
+	https://ifax.co.il/
+
+	פרי פקס
+	http://www.freefax.co.il/
+
+	מי פקס
+	https://www.myfax.co.il/
+
+%% קופות
+
+	נדרים פלוס
+	https://www.matara.pro/nedarimplus/
+
+	קהילות
+	https://kehilot.info/
+
+%% תוכנות
+
+	תוכנות להורדה
+	http://softwares.center/
+
+%% מכירות
+
+	משנת יוסף
+	http://mishnatyosef.org/
+
+	המכירה השכונתית
+	http://www.sales.org.il/
+
+%% תורני
+
+	היברו בוקס
+	http://www.hebrewbooks.org/
+	
+	קול הלשון
+	http://www.kolhalashon.com/
+	http://www.kolhalashon.com/FavIcon.ico
+
+	תורת אמת
+	http://www.toratemetfreeware.com/
+
+	אוצר החכמה
+	http://www.otzar.org/
+
+	תהילים
+	http://www.tehilim.org.il/
+
+	זמני היום בהלכה בכל מקום בעולם
+	https://www.myzmanim.com/
+	
