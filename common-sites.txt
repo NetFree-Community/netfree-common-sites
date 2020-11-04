@@ -42,7 +42,7 @@
 	משרד הרווחה
 	http://www.molsa.gov.il/
 	http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
-
+	
 	המשרד להגנת הסביבה
 	http://www.sviva.gov.il/
 	http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
@@ -385,6 +385,9 @@
 
 %% פורומים חרדיים
 
+	תכנוטק
+	https://techno-tech.cf
+	
 	מתמחים.טופ
 	https://mitmachim.top/
 	
