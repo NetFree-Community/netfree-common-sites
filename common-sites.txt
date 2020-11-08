@@ -385,14 +385,11 @@
 
 %% פורומים חרדיים
 
-	מתמחים.טופ
-	https://mitmachim.top/
-	
-	פרוג
-	http://www.prog.co.il/
-
 	פורום נטפרי
 	http://forum.netfree.link/
+ 	
+	פרוג
+	http://www.prog.co.il/
 
 	תחומים
 	http://tchumim.com/
