@@ -369,7 +369,7 @@
 	https://www.hotmobile.co.il/
 	
 	גולן טלקום
-        https://www.golantelecom.co.il/
+    https://www.golantelecom.co.il/
 	
 	רמי לוי תקשורת
 	https://mobile.rami-levy.co.il/
@@ -397,10 +397,26 @@
 	קהילות
 	https://kehilot.info/
 
-%% תוכנות
+%% תוכנות ואנטי וירוסים
 
 	תוכנות להורדה
 	http://softwares.center/
+
+	Avast
+	https://www.avast.com/
+
+	Eset
+	https://www.eset.com/il/
+
+	Avira
+	https://www.avira.com/
+
+	Norton
+	https://norton.antivirus.co.il/
+
+	AVG
+	https://www.avg.com/
+  
 
 %% מכירות
 
