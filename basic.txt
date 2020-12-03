@@ -369,7 +369,7 @@
 	https://www.hotmobile.co.il/
 	
 	גולן טלקום
-        https://www.golantelecom.co.il/
+    https://www.golantelecom.co.il/
 	
 	רמי לוי תקשורת
 	https://mobile.rami-levy.co.il/
