@@ -529,6 +529,7 @@
 
 	שיתופתא
 	https://shitufta.org.il/
+	https://shitufta.org.il/logo.svg
 
 	תהילים
 	http://www.tehilim.org.il/
