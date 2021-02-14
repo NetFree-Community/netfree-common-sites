@@ -257,6 +257,9 @@
 
 	גלאט 2
 	https://www.glat2.co.il/
+	
+	מניבים
+	https://menivim.net/
 
 %% לימודים
 
