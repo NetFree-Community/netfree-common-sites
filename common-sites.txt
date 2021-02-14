@@ -229,7 +229,7 @@
 	http://www.boi.org.il/he/Markets/ExchangeRates/Pages/Default.aspx
 
 	חדשות כלכלה
-	http://www.sponser.co.il/
+	https://www.sponser.co.il/
 
 	מדדי מניות וסקטורים בעולם
 	https://il.investing.com/indices/%D7%A9%D7%A2%D7%A8%D7%99-%D7%9E%D7%93%D7%93%D7%99%D7%9D-%D7%A2%D7%95%D7%9C%D7%9E%D7%99%D7%99%D7%9D
@@ -237,13 +237,13 @@
 %% לוחות
 
 	יד 2
-	http://www.yad2.co.il/
+	https://www.yad2.co.il/
 
 	אגורה
-	http://www.agora.co.il/
+	https://www.agora.co.il/
 
 	הומלס
-	http://www.homeless.co.il/
+	https://www.homeless.co.il/
 
 	dira4me
 	http://dira4me.co.il/
@@ -262,9 +262,6 @@
 	https://menivim.net/
 
 %% לימודים
-
-	שיעורים פרטיים במתמטיקה
-	http://שיעורים-פרטיים-במתמטיקה.com/
 	
 	מתמטיקה - M-math
 	https://www.m-math.co.il/
@@ -275,16 +272,16 @@
 %% מוסיקה
 
 	ג'ואיש מיוזיק FM
-	http://jewishmusic.fm/
+	https://jewishmusic.fm/
 
 	טוקר FM
-	http://www.toker.fm/
+	https://www.toker.fm/
 
 	גאולה FM
-	http://www.geula.fm/
+	https://www.geula.fm/
 
 	קול חי מיוזיק
-	http://www.93fm.co.il/players/music.html
+	https://kcm.fm/
 
 %% מודיעין
 
@@ -293,7 +290,7 @@
 	https://www.b144.co.il/favicon.ico
 
 	חיפוש הפוך
-	http://441il.com/
+	https://441il.com/
 
 	זיהוי מספרי טלפון
 	https://www.truecaller.com/
@@ -302,17 +299,14 @@
 	המדריך החרדי
 	https://www.402.co.il/
 
-	מפתח הקהילות
-	http://www.m-hakehilot.co.il/
-
 	דפי זהב
-	http://www.d.co.il/
+	https://www.d.co.il/
 
 	קשר כשר
 	http://kkasher.co.il/
 
 	כתובות וטלפונים בארה"ב
-	http://www.whitepages.com/
+	https://www.whitepages.com/
 
 %% מנועי חיפוש
 
@@ -602,13 +596,13 @@
 	https://moovitapp.com/
 
 	אגד
-	http://www.egged.co.il/
+	https://www.egged.co.il/
 
 	דן
-	http://www.dan.co.il/
+	https://www.dan.co.il/
 
 	רכבת ישראל
-	http://www.rail.co.il/
+	https://www.rail.co.il/
 
 	קווים עילית
 	http://www.illit-t.co.il/
@@ -618,13 +612,13 @@
 	https://bus.gov.il/Content/images/BusOperators/company_13.png
 
 	מטרופולין
-	http://www.metropoline.com/
+	https://www.metropoline.com/
 
 	נתיב אקספרס
 	http://www.nateevexpress.com/
 
 	אפיקים
-	http://www.afikim-t.co.il/
+	https://www.afikim-t.co.il/
 
 	רב קו אונליין
 	https://ravkavonline.co.il/he/
@@ -651,20 +645,17 @@
 
 %% תקשורת
 
-	השוואת חברות הסינון
-	http://atchalta.org/he/compare-kosher-internet-providers/
-
 	בזק
-	http://www.bezeq.co.il/
+	https://www.bezeq.co.il/
 
 	הוט
-	http://www.hot.net.il//heb/internetandtelephone/
+	https://www.hot.net.il//heb/internetandtelephone/
 
 	פרטנר
 	https://www.partner.co.il/
 
 	פלאפון
-	http://www.pelephone.co.il/
+	https://www.pelephone.co.il/
 
 	סלקום
 	https://www.cellcom.co.il/
@@ -682,10 +673,10 @@
 	https://019mobile.co.il/
 
 	בדיקת מהירות גלישה
-	http://www.bezeq.co.il/internetandphone/internet/speedtest/
+	https://www.bezeq.co.il/internetandphone/internet/speedtest/
 
 	פרי פקס
-	http://www.freefax.co.il/
+	https://www.freefax.co.il/
 
 	מי פקס
 	https://www.myfax.co.il/
