@@ -681,9 +681,6 @@
 	בדיקת מהירות גלישה
 	http://www.bezeq.co.il/internetandphone/internet/speedtest/
 
-	שליחת פקס בחינם
-	https://ifax.co.il/
-
 	פרי פקס
 	http://www.freefax.co.il/
 
