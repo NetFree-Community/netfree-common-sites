@@ -65,6 +65,9 @@
 	הבנק הבינלאומי
 	https://online.fibi.co.il/wps/portal
 
+	בנק ישראל
+	https://www.boi.org.il/he/CreditRegister/Pages/Default.aspx
+
 %% אשראי
 
 	לאומי כארד
@@ -143,6 +146,9 @@
 	רשות המיסים
 	https://taxes.gov.il/
 
+	כל זכות
+	https://www.kolzchut.org.il/he/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
+
 
 %% קופות חולים
 
@@ -185,6 +191,38 @@
 
 	בית חולים שערי צדק
 	https://www.szmc.org.il/
+
+%% ביטוחים
+	
+	הפניקס
+	https://www.fnx.co.il/
+
+	AIG
+	https://www.aig.co.il/
+
+	כלל ביטוח
+	https://www.clalbit.co.il/
+
+	הראל
+	https://www.harel-group.co.il/Pages/default.aspx/
+
+	אלטשולר שחם
+	https://www.as-invest.co.il//
+
+	אקסלנס
+	https://www.xnes.co.il/
+
+	מיטב דש
+	https://www.meitavdash.co.il/
+
+	מנורה
+	https://www.menoramivt.co.il/
+
+	הר הכסף
+	https://itur.mof.gov.il/#/main/landing
+
+	הר הביטוח
+	https://harb.cma.gov.il/
 
 %% דואר ושליחויות
 
@@ -425,6 +463,9 @@
 
 	המכירה השכונתית
 	http://www.sales.org.il/
+
+	והלכת בדרכיו
+	https://vehalachta.co.il/
 
 %% תורני
 
