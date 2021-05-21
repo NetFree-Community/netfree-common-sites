@@ -532,7 +532,7 @@
 	http://www.tehilim.org.il/
 
 	עלונים - גליונות פרשת השבוע
-	http://www.ladaat.info/gilyonot.aspx?view=1
+	ladaat.web-star.co.il/gilyonot.aspx
 
 	עלונים - גליונות
 	https://yiddishevinkel.com/gilyones
