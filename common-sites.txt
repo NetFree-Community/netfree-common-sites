@@ -506,9 +506,6 @@
 
 	היברו בוקס
 	http://www.hebrewbooks.org/
-	
-	ספרייה - טקסטים תורניים
-	https://www.sefaria.org.il/
 
 	קול הלשון
 	http://www.kolhalashon.com/
@@ -530,6 +527,9 @@
 	שיתופתא
 	https://shitufta.org.il/
 	https://shitufta.org.il/logo.svg
+
+	מרכבה
+	https://www.themercava.com/app/
 
 	תהילים
 	http://www.tehilim.org.il/
