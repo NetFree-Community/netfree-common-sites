@@ -315,7 +315,7 @@
 	https://www.google.co.il/images/branding/product/ico/googleg_lodp.ico
 	
 	חיפוש גוגל בתוך אתר
-	https://gssn.ml
+	https://sg.liy.ovh/
 	
 %% מכירות
 
