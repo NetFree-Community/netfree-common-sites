@@ -480,7 +480,7 @@
 %% שליחת קבצים גדולים
 
 	ג'מבו מייל
-	http://www.jumbomail.co.il/
+	https://www.jumbomail.me/he/
 
 	העברת קבצים גדולים
 	https://send.magicode.me/
