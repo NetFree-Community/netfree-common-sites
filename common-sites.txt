@@ -23,7 +23,7 @@
 	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
 
 	משרד המשפטים
-	http://index.justice.gov.il/
+	http://justice.gov.il/
 	http://www.justice.gov.il/SiteCollectionImages/Top/top-menu-menora.png
 
 	משרד התחבורה
@@ -286,7 +286,7 @@
 %% מודיעין
 
 	חיפוש 144
-	http://www.b144.co.il/Default.aspx
+	http://www.b144.co.il/
 	https://www.b144.co.il/favicon.ico
 
 	חיפוש הפוך
