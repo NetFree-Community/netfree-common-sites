@@ -179,9 +179,6 @@
 	http://softwares.center/
 
 %% חדשות
-
-	בימה
-	https://www.bimmae.com/main 
 	 
 	JDN
 	http://www.jdn.co.il/
