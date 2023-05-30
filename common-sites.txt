@@ -622,6 +622,9 @@
 
 	איפה בוס
 	http://www.efobus.com/
+	
+	גלים - שירותי תחבורה ציבורית
+	https://www.galeem.co.il/
 
 	לו"ז משרד התחבורה
 	https://bus.gov.il/
