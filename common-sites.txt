@@ -198,7 +198,7 @@
 %% וידאו
 
 	וידאו טוב
-	http://video-tov.ml/
+	https://video-tov.glat.ovh/
 
 %% יהדות
 
