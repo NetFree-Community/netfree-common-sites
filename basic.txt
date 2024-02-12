@@ -127,6 +127,10 @@
 	משרד הבטחון
 	http://www.mod.gov.il/
 
+	משרד העבודה
+	https://www.gov.il/he/departments/labor/govil-landing-page
+	https://www.gov.il/BlobFolder/office/labor/he/120_labor.png
+
 	משרד החוץ
 	http://mfa.gov.il/
 
@@ -217,6 +221,9 @@
 
 	מנורה
 	https://www.menoramivt.co.il/
+
+	אינפיניטי
+	https://infinity.co.il/
 
 	הר הכסף
 	https://itur.mof.gov.il/#/main/landing
@@ -321,6 +328,11 @@
 	עיריית פתח תקוה
 	http://www.petah-tikva.muni.il/Pages/default.aspx
 
+	עיריית טבריה
+	http://www.tiberias.muni.il/
+
+	עיריית נתיבות
+	https://www.netivot.muni.il/
 
 %% שפות ותרגומים
 
@@ -407,7 +419,7 @@
 	https://www.hotmobile.co.il/
 	
 	גולן טלקום
-    https://www.golantelecom.co.il/
+	https://www.golantelecom.co.il/
 	
 	רמי לוי תקשורת
 	https://mobile.rami-levy.co.il/
@@ -485,3 +497,6 @@
 	זמני היום בהלכה בכל מקום בעולם
 	https://www.myzmanim.com/
 	
+%%כלים
+	מיי גמל - השוואת תשואות
+	https://www.mygemel.net/
