@@ -148,7 +148,7 @@
 
 	ג'ימייל
 	https://mail.google.com/
-	https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+	https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
 
 	אוטלוק - הוטמייל
 	https://www.outlook.com/
