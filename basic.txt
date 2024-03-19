@@ -90,7 +90,7 @@
 
 	משרד האוצר
 	http://www.mof.gov.il/
-	http://www.mof.gov.il/Style%20Library/mof/images/ozar.ico
+	https://www.gov.il/OfficeLogo/menora.png
 
 	משרד המשפטים
 	http://justice.gov.il/
@@ -103,7 +103,8 @@
 	https://edu.gov.il/
 
 	פיקוד העורף
-	http://www.oref.org.il/
+	https://www.oref.org.il/
+	https://www.oref.org.il/Images/Logo_pakar.svg
 
 	ביטוח לאומי
 	https://www.btl.gov.il/
@@ -114,15 +115,16 @@
 	http://www.molsa.gov.il/_layouts/MisradHarevacha/Images/favicon.ico
 
 	המשרד להגנת הסביבה
-	http://www.sviva.gov.il/
-	http://www.sviva.gov.il/Style%20Library/Images/env/SvivaFavicon.ico
+	https://www.gov.il/he/departments/ministry_of_environmental_protection/govil-landing-page
+	https://www.gov.il/BlobFolder/office/ministry_of_environmental_protection/he/ministry_of_environmental_protection1.png
 
 	משרד הפנים
 	http://www.moin.gov.il/
+	https://www.gov.il/OfficeLogo/menora.png
 
 	משרד הבינוי והשיכון
-	http://www.moch.gov.il/
-	http://www.moch.gov.il/_catalogs/masterpage/favicon.ico
+	https://www.gov.il/he/departments/ministry_of_construction_and_housing/govil-landing-page
+	https://www.gov.il/BlobFolder/office/ministry_of_construction_and_housing/he/ministry_of_construction_and_housing1.png
 
 	משרד הבטחון
 	http://www.mod.gov.il/
@@ -139,6 +141,7 @@
 
 	משרד הכלכלה והתעשיה
 	http://www.economy.gov.il/
+	https://www.gov.il/BlobFolder/office/ministry_of_economy/he/ministry_of_economy.png
 
 	חברת החשמל לישראל
 	http://www.iec.co.il/
@@ -149,6 +152,7 @@
 
 	רשות המיסים
 	https://taxes.gov.il/
+	https://www.gov.il/BlobFolder/office/israel_tax_authority/he/israel_tax_authority.png
 
 	כל זכות
 	https://www.kolzchut.org.il/he/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
@@ -189,6 +193,7 @@
 
 	בית חולים וולפסון
 	http://www.wolfson.org.il/
+	https://www.gov.il/BlobFolder/office/wolfson/he/WOLFSON4.png
 
 	בית חולים הדסה
 	http://www.hadassah.org.il/
@@ -498,5 +503,6 @@
 	https://www.myzmanim.com/
 	
 %%כלים
+
 	מיי גמל - השוואת תשואות
 	https://www.mygemel.net/
