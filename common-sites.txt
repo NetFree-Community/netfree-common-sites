@@ -30,7 +30,8 @@
 	https://www.gov.il/he/Departments/ministry_of_transport_and_road_safety
 
 	משרד החינוך
-	https://edu.gov.il/
+	https://www.gov.il/he/departments/ministry-of-education/govil-landing-page
+	https://www.gov.il/BlobFolder/office/ministry-of-education/he/edu-logo.png
 
 	פיקוד העורף
 	http://www.oref.org.il/
