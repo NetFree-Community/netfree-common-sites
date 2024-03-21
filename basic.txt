@@ -126,6 +126,9 @@
 	https://www.gov.il/he/departments/ministry_of_construction_and_housing/govil-landing-page
 	https://www.gov.il/BlobFolder/office/ministry_of_construction_and_housing/he/ministry_of_construction_and_housing1.png
 
+	אתר ההרשמה להגרלות
+	https://www.dira.moch.gov.il/
+
 	משרד הבטחון
 	http://www.mod.gov.il/
 
@@ -156,6 +159,9 @@
 
 	כל זכות
 	https://www.kolzchut.org.il/he/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99
+
+	גיידסטאר
+	https://www.guidestar.org.il/
 
 
 %% קופות חולים
@@ -235,6 +241,17 @@
 
 	הר הביטוח
 	https://harb.cma.gov.il/
+
+
+%%השקעות
+	מגדל
+	https://www.migdal.co.il/
+
+	ילין לפידות
+	https://www.yl-invest.co.il/
+
+	בית השקעות More
+	https://www.moreinvest.co.il/
 
 %% דואר ושליחויות
 
@@ -392,6 +409,13 @@
 	כביש 6
 	https://www.kvish6.co.il/
 
+	מיי קאר
+	https://www.mycar-israel.com/
+
+	סיטי קאר
+	https://www.citycar.co.il/map
+
+
 %% תחזית מזג אויר
 
 	השירות המטאורולוגי
@@ -471,6 +495,9 @@
 
 	AVG
 	https://www.avg.com/
+
+	כלי PDF
+	https://avepdf.com/he
   
 
 %% מכירות
@@ -483,6 +510,7 @@
 
 	והלכת בדרכיו
 	https://vehalachta.co.il/
+
 
 %% תורני
 
@@ -501,6 +529,19 @@
 
 	זמני היום בהלכה בכל מקום בעולם
 	https://www.myzmanim.com/
+
+
+%%חשבונאות
+
+	קרנות השתלמות לעובדי הוראה
+	https://www.kranoth.org.il/
+
+	פורמלי טפסים
+	https://www.ins.formally.co.il/
+
+	Unique
+	https://site.unq.co.il/
+
 	
 %%כלים
 
