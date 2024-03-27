@@ -163,6 +163,10 @@
 	גיידסטאר
 	https://www.guidestar.org.il/
 
+	רשות האוכלוסין וההגירה
+	https://www.gov.il/he/departments/population_and_immigration_authority/govil-landing-page
+	https://www.gov.il/BlobFolder/office/population_and_immigration_authority/he/logo120.png
+
 
 %% קופות חולים
 
