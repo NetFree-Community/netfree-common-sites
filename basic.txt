@@ -66,7 +66,8 @@
 	https://online.fibi.co.il/wps/portal
 
 	בנק ישראל
-	https://www.boi.org.il/he/CreditRegister/Pages/Default.aspx
+	https://www.gov.il/he/departments/national-digital-agency/govil-landing-page
+	https://www.gov.il/BlobFolder/office/national-digital-agency/he/Israel%20National%20Digital%20Agency_Logo%20No%20Text%20Color%20Positive%20RGB@0.5x.png
 
 %% אשראי
 
@@ -246,10 +247,14 @@
 	הר הביטוח
 	https://harb.cma.gov.il/
 
-
-%%השקעות
 	מגדל
 	https://www.migdal.co.il/
+
+
+%%השקעות
+
+	הבורסה
+	https://www.tase.co.il/he
 
 	ילין לפידות
 	https://www.yl-invest.co.il/
@@ -515,6 +520,16 @@
 	והלכת בדרכיו
 	https://vehalachta.co.il/
 
+%%קניות
+
+	אקספרס מהדרין
+	https://www.expressmehadrin.co.il/
+	
+	שוק העיר
+	https://www.shukcity.co.il/
+
+	רמי לוי
+	https://www.rami-levy.co.il/he/online/market
 
 %% תורני
 
