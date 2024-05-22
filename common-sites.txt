@@ -157,6 +157,9 @@
 	יאהו
 	https://mail.yahoo.com/
 
+	וואלה
+	https://friends.walla.co.il/
+
 %% דואר ושליחויות
 
 	דואר ישראל
