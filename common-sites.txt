@@ -177,11 +177,6 @@
 	EMS
 	http://www.ems.post/
 
-%% הורדות
-
-	תוכנות להורדה
-	http://softwares.center/
-
 %% חדשות
 	 
 	JDN
