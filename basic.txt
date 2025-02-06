@@ -487,9 +487,6 @@
 
 %% תוכנות ואנטי וירוסים
 
-	תוכנות להורדה
-	http://softwares.center/
-
 	Avast
 	https://www.avast.com/
 
