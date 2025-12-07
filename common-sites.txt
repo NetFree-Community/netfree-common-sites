@@ -500,6 +500,9 @@
 	היברו בוקס
 	http://www.hebrewbooks.org/
 
+	אוצריא
+	https://www.otzaria.org/
+
 	קול הלשון
 	http://www.kolhalashon.com/
 	http://www.kolhalashon.com/FavIcon.ico
